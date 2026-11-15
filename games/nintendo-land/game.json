@@ -9,12 +9,12 @@
   "mods": [
     {
       "id": "matt-apocalypse",
-      "name": " Matt Apocalypse ",
+      "name": "Matt Apocalypse ",
       "type": "mod",
       "version": "1.0.0",
       "author": "Zyiah",
       "description": "This mod replaces every npc in the plaza to matt",
-      "download": "https://filecache40.gamebanana.com/mods/matt_apocalypse.zip",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/matt_apocalypse.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/64ade887467e8.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/64ade85d82fec.jpg",
@@ -33,7 +33,7 @@
       "version": "1.0.0",
       "author": "Zyiah",
       "description": "All the text in Nintendo Land sent through Google Translate a ton of times!\n\nThis turned out better than I expected, hope people enjoy it!",
-      "download": "https://filecache46.gamebanana.com/mods/ormetal.zip",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/ormetal.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/67db74ce10e46.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/67db74f7d03cf.jpg",
@@ -53,7 +53,7 @@
       "version": "1.1",
       "author": "tebogebo",
       "description": "Makes Monita very mad.\n\nInstall on Cemu\nDownload the cemu mod file, open cemu, hit file > open cemu folder.\nUnzip the mod folder into it (drag graphicpacks to cemu folder)\nGo to Options > Graphic Packs and you should see it under Nintendo Land > Mods > Madita (you might have to re-open Cemu for it to show up) and turn it on\n\nInstall on Wii U (not working currently)\nInstall Aroma custom firmware and get the sdcafiine plugin from the HB App Store.\nDownload the wii u mod file and extract the wiiu folder from the zip onto the root of your SD card. (There should already be a wiiu folder, you just need to merge them)\nWhen you launch the game, the sdcafiine menu will show up asking you to select the modpack (it might just show up briefly to tell you it's booting this mod if you only have this mod installed).",
-      "download": "https://filecache41.gamebanana.com/mods/wii_u_mod_00d13.zip",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/madita.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/6897bddd376f3.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/6897be270a3f2.jpg"
@@ -72,7 +72,7 @@
       "version": "1.1",
       "author": "VGB2615",
       "description": "This is a test map I made a while back for Mario Chase, that I finally decided to upload. I created this map by following a tutorial which can be found here: \n\nhttps://gbatemp.net/threads/nintendo-land-mario-chase-modding.522882/\n\nThis map normally replaces the Chase Arena, (4-5 players version), but could also work over other maps, (with some possible side effects). ",
-      "download": "https://filecache46.gamebanana.com/mods/testmap_v1_1.zip",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/testmap_v1_1.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/69fdfe1c4bd42.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/69fdfe224b564.jpg",
@@ -95,7 +95,7 @@
       "version": "1.0.0",
       "author": "TheN00b21",
       "description": "This is the first mod for Nintendo Land - Legend Of Zelda: Battle Quest (That was a mouthful). It includes new outfits for the archer and all 3 swordsmen. It also includes a dark triforce. I hopefully will make a pack for the full game if this gets enough attention as I already have a decent amount of modding knowledge for this game. Weirdly however, each mini game seems to have a different compression and way to be modded due to the early release of this game.",
-      "download": "https://filecache44.gamebanana.com/mods/dlc_costume.zip",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/dlc_costume.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/60f9cfb09a68f.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/60f9cfa9c0cbd.jpg",
@@ -115,7 +115,7 @@
       "version": "1.0.0",
       "author": "Zyiah",
       "description": "This mod makes the final mission of metroid blast have ice ridley along with kraid and ridley!",
-      "download": "https://filecache46.gamebanana.com/mods/truer_final_battle.zip",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/truer_final_battle.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/65138ae6d7fc5.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/65138b19370d3.jpg",
@@ -134,7 +134,7 @@
       "version": "1.0.0",
       "author": "shirex",
       "description": "A simple mod in which Mario's outfit changes color to a blue shirt and red overalls based in his old design.\n\nHow to use:\n\nIn the SDCaffine Folder, create a folder with the game code based on your region.\nJPN: 0005000010101F00\nUSA: 0005000010102000\nEUR: 0005000010102100\n\nAnd drop the content folder in it.",
-      "download": "https://filecache44.gamebanana.com/mods/classicmariorecolor.rar",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/classicmariorecolor.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/6496147f8d7f3.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/649614a5f2d45.jpg",
@@ -153,7 +153,7 @@
       "version": "1.0.0",
       "author": "DarkyUp",
       "description": "Mod that changes Mario's outfit in Mario's Chase to the Bubble Outfit found in Super Mario Bros. Wonder\nTested in the version 1.1.0\n\nInstallation:\n\nPut the files in the folder that corresponds to your version of the game located in the SDCaffine folder\nJPN: 0005000010101F00\nUSA: 0005000010102000\nEUR: 0005000010102100\n\nIt should look like this:\nSDCaffine\\[TitleID]\\Bubble Mario (Wonder)",
-      "download": "https://filecache37.gamebanana.com/mods/bubble_mario_wonder_.zip",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/bubble_mario_wonder_.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/66dcc14026b95.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/66dcc151340a4.jpg",
@@ -173,7 +173,7 @@
       "version": "1.0.0",
       "author": "Braden Perhaps",
       "description": "How to use:\n\nIn the SDCaffine Folder, create a folder with the game code based on your region then put the \"autism\" folder inside.\nJPN: 0005000010101F00\nUSA: 0005000010102000\nEUR: 0005000010102100",
-      "download": "https://filecache41.gamebanana.com/mods/autism_f9741.zip",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/autism_f9741.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/669a589abf628.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/669a589feb536.jpg"
@@ -191,7 +191,7 @@
       "version": "1.0.0",
       "author": "Zyliqx",
       "description": "This is a port from Splatoon 2 that replaces the Wizzrobe Ball in Legend Of Zelda: Battle Quest with the Burst Bomb. This is the 1st mod I've ever made so it won't be the best mod. I'll try to improve it in the future.",
-      "download": "https://filecache31.gamebanana.com/mods/burst_ball.rar",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/Burst.Ball.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/6276ee891ec5b.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/6276ee9c5d6f7.jpg"
@@ -209,7 +209,7 @@
       "version": "1.0.0",
       "author": "Rudinn",
       "description": "another april fools mod",
-      "download": "https://filecache20.gamebanana.com/mods/content_659d3.zip",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/nomiianimations.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/67ec809c6ba49.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/67ec809f3c0ef.jpg"
@@ -227,7 +227,7 @@
       "version": "1.0.0",
       "author": "Zyiah",
       "description": "This Mod Swaps the seasons and underground in Pikmin Adventure.",
-      "download": "https://filecache54.gamebanana.com/mods/out_of_season.zip",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/out_of_season.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/653534c969e4b.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/653534c8e454a.jpg",
@@ -246,7 +246,7 @@
       "version": "1.0.0",
       "author": "Zyiah",
       "description": "This mod swaps the animations of Nintendo land in the Multiplayer attractions and title screen.",
-      "download": "https://filecache42.gamebanana.com/wips/animationcurruption_10a48.zip",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/animationcurruption_10a48.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/wips/637230a79d0cb.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/wips/63719083bb829.jpg",
@@ -260,27 +260,13 @@
       "changelog": "plaza animations\nolimar animations\nmario animations"
     },
     {
-      "id": "no-music",
-      "name": "No Music",
-      "type": "mod",
-      "version": "1.0.0",
-      "author": "Rudinn",
-      "description": "Good mod for playing any type of music that you want",
-      "download": "https://filecache54.gamebanana.com/sounds/nintendo_land_no_music_mod.zip",
-      "license": "CC BY-NC-ND 4.0",
-      "tags": [
-        "Sounds",
-        "Other/Misc"
-      ]
-    },
-    {
       "id": "project-crystal-a-nintendo-land-modpack",
       "name": "Project Crystal (A Nintendo Land Modpack)",
       "type": "modpack",
       "version": "0.8",
       "author": "TheN00b21",
       "description": "Hey, Remember Me? I'm that game that literally no one talks about! Well, I'm back, back with MODS!\nWARNING: This Modpack is not nearly finished, but there is a download. It is quite low quality for now but if I can get a small team together this can become a huge modpack.\n\nThis is the first-ever modpack for Nintendo Land! Why is it called Project Crystal? Idk it just kinda sounded cool. I will try to revamp the entire game to a whole new state making it WAY better than the original. It will include brand new skins (yes, model imports too), entirely new stages or levels for some games, some new layouts (hopefully better), and if I'm smart enough, new game modes!!! This will be an extremely hard project because of the number of different games Nintendo Land has to offer. However, I will try my best to do it all. All screenshots are from the pack running on a real Wii U. (Sorry for the lack of pictures, I'll try to get more later)\nSo far this pack contains:\n\nPlaza and Misc:\n\n    Among us Imposter over Monika\n    Many Star, Coin, etc. gradient recolors\n    There is more but mostly meme stuff, relatively hidden\n\nBattle Quest:\n\n    DQ Slimes Replacing Red/Green Balloon Enemies\n    Minecraft Diamond Sword for enemies\n    Pot Lid over the wood shield and Mario star over the metal shield\n    Kamek over parrot enemies\n    Cool new costumes for Link (Archer and all swordsmen)\n\n\nMetroid Blast:\n\n    A few costume changes for enemies, and power-ups\n\n\nMario Chase:\n\n    Luigi Circuit over course 1 (Incomplete)\n    N64 Skyscraper over course 2 (Incomplete)\n    Costume changes for Toads, Mario, and Yoshis\n\n\nLuigi's Ghost Mansion:\n\n    GCN Cookie Land test model import over the 5th course\n    Costume changes for \"Luigis\" and Ghost\n    Small flashlight changes \n    Battery logos changed\n\nTo download click one of the file sources and it will take you to a place you can download the modpack (The file is too big for Gamebanana so I had to host it somewhere else). Progress is slow to my busy schedule but I will try to work on if when I feel like it. I have many other mods that I am working on at all times.",
-      "download": "https://mega.nz/155ecd22-b401-40a6-a643-da188d1f075a",
+      "download": "https://github.com/DracoNinja801/DracoNinja-s-CoffeeShop-Repo/releases/download/Test1/Project.Crystal.Early.Build.zip",
       "thumbnail": "https://images.gamebanana.com/img/ss/wips/62259952f1f5f.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/wips/61394bfaf262e.jpg",
