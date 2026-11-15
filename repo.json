@@ -1,0 +1,11 @@
+{
+  "formatVersion": 1,
+  "name": "DracoNinja's CoffeShop Repo",
+  "author": "DracoNinja801",
+  "version": "1",
+  "games": [
+    {
+      "path": "games/nintendo-land/game.json"
+    }
+  ]
+}
