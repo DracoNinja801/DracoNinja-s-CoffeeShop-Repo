@@ -272,6 +272,42 @@
         "Sounds",
         "Other/Misc"
       ]
+    },
+    {
+      "id": "project-crystal-a-nintendo-land-modpack",
+      "name": "Project Crystal (A Nintendo Land Modpack)",
+      "type": "modpack",
+      "version": "0.8",
+      "author": "TheN00b21",
+      "description": "Hey, Remember Me? I'm that game that literally no one talks about! Well, I'm back, back with MODS!\nWARNING: This Modpack is not nearly finished, but there is a download. It is quite low quality for now but if I can get a small team together this can become a huge modpack.\n\nThis is the first-ever modpack for Nintendo Land! Why is it called Project Crystal? Idk it just kinda sounded cool. I will try to revamp the entire game to a whole new state making it WAY better than the original. It will include brand new skins (yes, model imports too), entirely new stages or levels for some games, some new layouts (hopefully better), and if I'm smart enough, new game modes!!! This will be an extremely hard project because of the number of different games Nintendo Land has to offer. However, I will try my best to do it all. All screenshots are from the pack running on a real Wii U. (Sorry for the lack of pictures, I'll try to get more later)\nSo far this pack contains:\n\nPlaza and Misc:\n\n    Among us Imposter over Monika\n    Many Star, Coin, etc. gradient recolors\n    There is more but mostly meme stuff, relatively hidden\n\nBattle Quest:\n\n    DQ Slimes Replacing Red/Green Balloon Enemies\n    Minecraft Diamond Sword for enemies\n    Pot Lid over the wood shield and Mario star over the metal shield\n    Kamek over parrot enemies\n    Cool new costumes for Link (Archer and all swordsmen)\n\n\nMetroid Blast:\n\n    A few costume changes for enemies, and power-ups\n\n\nMario Chase:\n\n    Luigi Circuit over course 1 (Incomplete)\n    N64 Skyscraper over course 2 (Incomplete)\n    Costume changes for Toads, Mario, and Yoshis\n\n\nLuigi's Ghost Mansion:\n\n    GCN Cookie Land test model import over the 5th course\n    Costume changes for \"Luigis\" and Ghost\n    Small flashlight changes \n    Battery logos changed\n\nTo download click one of the file sources and it will take you to a place you can download the modpack (The file is too big for Gamebanana so I had to host it somewhere else). Progress is slow to my busy schedule but I will try to work on if when I feel like it. I have many other mods that I am working on at all times.",
+      "download": "https://mega.nz/155ecd22-b401-40a6-a643-da188d1f075a",
+      "thumbnail": "https://images.gamebanana.com/img/ss/wips/62259952f1f5f.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/wips/61394bfaf262e.jpg",
+        "https://images.gamebanana.com/img/ss/wips/61394bfb992a0.jpg",
+        "https://images.gamebanana.com/img/ss/wips/61394bfb17a90.jpg",
+        "https://images.gamebanana.com/img/ss/wips/61394bfb9e58d.jpg",
+        "https://images.gamebanana.com/img/ss/wips/61394bfa36d25.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6226b60f5952d.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6226b60fb0268.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6226b60fb843b.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6226b60fdd904.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6226b60fe19aa.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6226b61006be0.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6226b6104011b.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6226b6105279b.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6226b61076d2d.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6226b610753fd.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6226b610a1a71.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6226b610a8a62.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6226b610c3fa7.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "WiPs",
+        "Other/Misc"
+      ],
+      "changelog": "New Plaza, Mario Chase, and other miscellaneous changes\nFirst Stable Proof of Concept Download."
     }
   ]
 }
