@@ -1,0 +1,1728 @@
+{
+  "name": "Super Mario Maker",
+  "icon": "https://www.spriters-resource.com/media/assets/67/70081.png",
+  "titleIds": [
+    "000500001018DB00",
+    "000500001018DC00",
+    "000500001018DD00"
+  ],
+  "mods": [
+    {
+      "id": "super-mario-maker-vanilla-revamped",
+      "name": "Super Mario Maker: Vanilla Revamped",
+      "type": "mod",
+      "version": "1.4.1",
+      "author": "Buntendo",
+      "description": "Super Mario Maker: Vanilla Revamped is a Super Mario Maker mod that aims to enhance\nSuper Mario Maker's graphics, audio, and more to improve upon the original game.",
+      "download": "https://download1529.mediafire.com/kebfvvcd8msgNHS6ojt-6K1PKUVIIzNITOyG-edn4An4o8xunYcHiPaDVLqoFDVEbqmJXhfc4AJTo6b9IyuSiTMJ3JC6ifKJQNLHNjeXjEWaJ7Ki-EXEhbopcKbuM7oj3ygyLjxAx26p5ESOazaa8asIKh7fwbiLCrRkBCIhTTB5/5x6jjng3unuu1bl/Vanilla+Revamped+Beta+1.4.7z",
+      "thumbnail": "https://mariomakingmods.github.io/localhost/img/slider/smmvr.png",
+      "screenshots": [
+        "https://i.imgur.com/AlDjKNM.jpg",
+        "https://i.imgur.com/AUbEjoI.jpg"
+      ],
+      "tags": [
+        "smm2",
+        "nintendo switch"
+      ]
+    },
+    {
+      "id": "super-mario-land-2-six-golden-coins",
+      "name": "Super Mario Land 2: Six Golden Coins",
+      "type": "mod",
+      "version": "2.0",
+      "author": "Louis Miles",
+      "description": "This pack overrides SMB3's theme with a Super Mario Land 2 theme!\nCreate your stages on Mario Land or go in space and create tricky Star Mazes. The possibilities are unlimited.\nYou can also play any normal Stage created with the original SMB3 theme with this theme to get a different feeling ;D\n\n*A port of this mod to Super Mario Maker 2 with new and improved stuff is work-in-progress!*",
+      "download": "https://download1348.mediafire.com/a7i8q5edh7hgh0Sybig_R0_ChOXg4mfJ-g7sKAl5t_bqUewpNwZEADzMsCKdMRUX5rBK16J_Ot_weWAq3N1swY-yuibrUp05pxSkIyvUftEArRE1Rxf9dO7pQnTwGf2rResUVHTl3SsZ9VXPZjuNtiIjSUP5rlEILwj36mwmmWe4/u4wqcmfrtogcr91/SuperMarioLand2_ForSuperMarioMaker_v2.0.zip",
+      "thumbnail": "https://i.imgur.com/xDECxUl.jpg",
+      "screenshots": [
+        "https://i.imgur.com/xDECxUl.jpg",
+        "https://i.imgur.com/8UWyZwm.jpg",
+        "https://i.img3.dreamies.de/img/531/b/hmel47cd839.jpg",
+        "https://i.imgur.com/OBHaBY4.jpg",
+        "https://img15.dreamies.de/img/821/b/im0e8z0qahi.jpg",
+        "https://i.imgur.com/0xG8rcR.jpg"
+      ],
+      "tags": [
+        "wii u",
+        "smm2 wip"
+      ]
+    },
+    {
+      "id": "new-super-mario-bros-ds",
+      "name": "New Super Mario Bros DS",
+      "type": "mod",
+      "version": "1.1",
+      "author": "Louis Miles",
+      "description": "This pack replaces the NSMBU theme with a New Super Mario Bros DS theme!\nTravel back to the good old times of the classic DS and enjoy ;D\n\n*A port of this mod to Super Mario Maker 2 with new and improved stuff is work-in-progress, but not only by me, actually by a full team!*",
+      "download": "https://download1584.mediafire.com/cvjysbnol9eg6FThaDRYGL_uZ0q29w0CnQz_5qDw7lnOtYcVYnxFNHQ9u1YLSprE9sh7Q1x_jQGwpftY8LtdAANYFnAylhtoDfVji1Fj7Jm3fUZ1ngW7Xz7OHLRYws3xZ2mLrJxAs3F_fUapqEd2LeDLHhPEI_c1QspXnAvMEujW/1dnm8zk8k6vc3no/NSMBDS_forSuperMarioMaker_v1.1.zip",
+      "thumbnail": "https://i.imgur.com/TkUoQJ1.jpg",
+      "screenshots": [
+        "https://i.imgur.com/TkUoQJ1.jpg",
+        "https://i.imgur.com/rPlScj0.jpg",
+        "https://i.imgur.com/0YT0NCs.jpg",
+        "https://i.imgur.com/U0BY6oV.jpg",
+        "https://i.imgur.com/fFoBsnq.jpg",
+        "https://i.imgur.com/xAgCjSr.jpg"
+      ],
+      "tags": [
+        "wii u",
+        "smm2 wip"
+      ]
+    },
+    {
+      "id": "super-mario-bros-all-stars",
+      "name": "Super Mario Bros All-Stars",
+      "type": "mod",
+      "version": "1.2",
+      "author": "Louis Miles",
+      "description": "This pack replaces the SMB theme with it's 16-bit version from Super Mario Allstars!\nPlay all your Super Mario Bros stages in SNES style and enjoy the new and updated graphics!\nAlso big thanks to ValtteriValtteri24 for his great 16-Bit soundtrack for Airship and the Ghost House !\n\n*A port of this mod to Super Mario Maker 2 with new and improved stuff is work-in-progress!*",
+      "download": "https://download1500.mediafire.com/gf3ju8dxahlgO-W1QjweZcNFxc54QvKloQdMzSsMgqP9nSgEL02WlO9t4OBawLoW1nOmRMz16qd0Lokc7UplePU18LiPj02FFH-ohdsr7PGhR_FRU4-AuXjy34klZbkJNLOOen5v1qMZyTquYVN4jeY7Gws80eeUQ-6MvvfgUlFe/5myr143w66iuogs/SuperMarioBrosALLSTARS_forSuperMarioMaker_v1.2.zip",
+      "thumbnail": "https://i.imgur.com/3go1uUL.jpg",
+      "screenshots": [
+        "https://i.imgur.com/3go1uUL.jpg",
+        "https://i.imgur.com/Zle2Du9.jpg",
+        "https://i.imgur.com/m4cPCSy.jpg",
+        "https://i.imgur.com/NC5zs0p.jpg",
+        "https://i.imgur.com/Ek5ML1i.jpg",
+        "https://i.imgur.com/CCNoYEK.jpg"
+      ],
+      "tags": [
+        "wii u",
+        "smm2 wip"
+      ]
+    },
+    {
+      "id": "mario-maker-halloween-theme",
+      "name": "Mario Maker Halloween theme",
+      "type": "mod",
+      "version": "0.1",
+      "author": "zachabossaloler",
+      "description": "This is one of the first tile sets I have made mostly myself\nCredit:\nMusic import: Mayrosmm\nMusic: meowpik259 ",
+      "download": "https://uc8c40833c0adecf01bfe518303f.dl.dropboxusercontent.com/cd/0/get/DL86uKtZtAJ41HLzUlX_8CPsGd294Cf4pNKIa_b5T4icg2PoJ9jc9iCUqMYD853UpFjDhWQB78wq9Kyh8wdO4tKdYscU9lguzz_6zIP8Gmgg3-HTaRYf8xGj9AlJl36qZucSPBLbDRO_COPCbk2cq0cu/file?_download_id=0427879273329050401592598594310856787887069489887752544429587525857&_log_download_success=1&_notify_domain=www.dropbox.com&dl=1",
+      "thumbnail": "https://img.youtube.com/vi/5mtPn86bzKQ/maxresdefault.jpg",
+      "screenshots": [
+        "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/379186189535674370/392346368645136394/unknown.png"
+      ],
+      "tags": [
+        "wii u"
+      ]
+    },
+    {
+      "id": "volcano-theme-pack",
+      "name": "Volcano Theme Pack",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "WillyMaker",
+      "description": "This is a pack that replaces all the castles themes with the volcano ones from MM, my NSMBU Volcano theme and the Epic_stuff one.\n\nCredits: SMB1 Volcano Theme: Unkown_ Custom BGs files: Louis Miles\nSMB3 Volcano Theme: dynastylobster Custom BGs files: MFGG.net\nSMW Volcano Theme: Epic_stuff / Wii U port by tee\nNSMBU Volcano Theme: WillyMaker\n\nMusic:\nSMB1: Loeder\nSMB3: Loverboyy\nSMW: Turret 3471\n\n-I toke all this stuff from Mario Multiverse (game by: neoarc/neoarcturus)",
+      "download": "https://download1472.mediafire.com/4o3k55jcvgvgt7Opu3rDLqX3S7TkAmG8XVP2tVCyr6-bdXG0IZnf6hYy4SOGEMNu4-D1lJTW8BsesFDw2I_M_GOeV8pTywL1ZtI82lonDloL-H5sPTVcx3vmYLdnfGmUkFNTpigIIEMsXlkBAZON0_ZkcFx9587cIXLl2iwXZzOJ/t9rrlxj7lb6ysyz/VolcanoPack.rar",
+      "thumbnail": "https://i.imgur.com/wmtQuJI.jpg",
+      "screenshots": [
+        "https://i.imgur.com/wmtQuJI.jpg",
+        "https://i.imgur.com/NJCO3qi.png",
+        "https://i.imgur.com/lwgYwM4.jpg",
+        "https://i.imgur.com/lFrHL1V.jpg"
+      ],
+      "tags": [
+        "smm wii u"
+      ]
+    },
+    {
+      "id": "terraria-maker",
+      "name": "Terraria Maker",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Tanoo",
+      "description": "Hi I'm Tanookid and this is my Mario Maker mod called Terraria maker.\nIt's a Work in Progress but when done should replace the Super Mario Bros, Super Mario Bros 3, and Super Mario World themes!\n\nSMW Themes\nOverworld = Snow Overworld\nUnderground = Snow Underground\nUnderwater = [Undecided]\nGhost House = Space/Floating island\nAirship = Hallow Overworld\nCastle = [Undecided]\n\nSMB3 Themes\nOverworld = Jungle Overworld\nUnderground = Jungle Underground\nUnderwater = Hive\nGhost House = Mushroom Biome\nAirship = Crimson Overworld\nCastle = Jungle/Lihzahrd Temple\n\nSMB1 Themes\nOverworld = Forest Overworld\nUnderground = Cavern\nUnderwater = Ocean\nGhost House = Dungeon\nAirship = Corruption Overworld\nCastle = Underworld\n\nI also plan on making other random biomes as seperate mini mods!",
+      "download": "https://download844.mediafire.com/edu2bly0hbrgJGgNzZaCm6PIVp5xmj9DSoHlrKN7FenPZuGSz8UaDMIfxnwV0qy4xfS2S-kB0lwvCEnIxX9VuIAzwwV5uOjarBQInXHNk2TwMLjebNFhY3vWz_qQuO_k1XpR2JymT3-9LRSzlgLZD7bLTgSP2iNgN_RSfsEWrsVw/dvkdzw6k1knc7di/Cavern+Tiles+Demo.zip",
+      "thumbnail": "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/464267725783564291/469285175004758016/Logo_Text.png",
+      "tags": [
+        "wip",
+        "wii u",
+        "terraria"
+      ]
+    },
+    {
+      "id": "outside-ghost-house",
+      "name": "Outside Ghost House",
+      "type": "mod",
+      "version": "1.1",
+      "author": "Epic_stuff",
+      "description": "I've been wanting to work on this for a long time now, and I've even had a song in mind for it. Unfortunately, due to the lack of animation editing, I couldn't do it. Now I can, and here it is!\n\nCredit to Im the Red Spy for the original background, Buntendo for assisting me with the final tileset, and tee for the full Wii U port.",
+      "download": "https://uc4b2e5a08c0879680fabb3b36e8.dl.dropboxusercontent.com/cd/0/get/DL9_crZ3-UMtzzg2d_2mk5KjoXBTivCN4sSwavZbM-N1wR_V3FLYdyc3kyvqar6vFHme9VPNjzWTW2znvpF0tZeCGEuKTD3RADhKcu_q1AVpQRJAd9wSA4p0uzMa46wpd8v4N9rtBl8Azq6g7HMiw2Hl/file?_download_id=75675600144299556535050819236856137091656615387827245846979479016&_log_download_success=1&_notify_domain=www.dropbox.com&dl=1",
+      "thumbnail": "https://i.imgur.com/PhXDzZM.png",
+      "screenshots": [
+        "https://i.imgur.com/PhXDzZM.png",
+        "https://i.imgur.com/kqt5Amg.png",
+        "https://i.imgur.com/Vu7r4u8.png"
+      ],
+      "tags": [
+        "smw",
+        "3ds",
+        "wii u"
+      ]
+    },
+    {
+      "id": "smw-forest-theme",
+      "name": "SMW Forest theme",
+      "type": "mod",
+      "version": "2",
+      "author": "Ralshi02",
+      "description": "This mod replace the grassland by the smw forest theme.",
+      "download": "https://download944.mediafire.com/grfdr6hwha8gBtKSpb-hYxbNzi0QBg0X5EA1ApRgP14S3rgD5YXdvkW3awQlZpmh6BFSsuWkTn_1s3oKdz9jGYTUCFSAh74DpNvZB1xZ8YyQ3V4VbjFkLNd7ltwn8PJ_DUAGGtTPfsVa5E0UKhobDY3yD3ALt1yP5oKxrZyeDXrt/vh2fd8pfm92h6q3/content%282%29.zip",
+      "thumbnail": "https://mariomakingmods.github.io/media.discordapp.net/attachments/554037161889103872/564081811303563272/Capture240e6.png",
+      "screenshots": [
+        "https://mariomakingmods.github.io/media.discordapp.net/attachments/554037161889103872/564081811303563272/Capture240e6.png"
+      ],
+      "tags": [
+        "wii u",
+        "smw"
+      ]
+    },
+    {
+      "id": "nsmbu-snow-theme",
+      "name": "NSMBU Snow Theme",
+      "type": "mod",
+      "version": "0.2",
+      "author": "WillyMaker",
+      "description": "Yay! A snow theme!\n\nV.2 Update:\n\n-New background!\n\nTwo types: The original one (without snow cliffs from NSMBW)\nThe custom one (with the snow cliffs from NSMBW) (Original idea by AboodXD)\n\nAlso you can use the old background that WarioTails358 made.",
+      "download": "https://download1338.mediafire.com/athchkb8b0lgqPTpawkz90TaPbkyXbSBvBKhb477Z6DqXW6wuy6ZD_3blOSedVi2kvKIOAwoLHIbZg59DgJ4CX-ykh_6PArmACeJlV0LPhryJm1ZxE4J7e4u6CVBoiykLk9CstVMsCLGnks6j7PJw5xBDYOG-QCoBA81SiidRu61/tdzig2qa2mwjbdi/NSMBU-Snow_NSMBUBG_Custom.rar",
+      "thumbnail": "https://img.youtube.com/vi/89kV53nPiAk/mqdefault.jpg",
+      "screenshots": [
+        "https://i.imgur.com/Gw7qt0B.jpg",
+        "https://i.imgur.com/FO4HQsj.jpg",
+        "https://i.imgur.com/a6Ihh8T.jpg"
+      ],
+      "tags": [
+        "smm wii u",
+        "v.2"
+      ]
+    },
+    {
+      "id": "nsmbwii-volcano-outside-theme-for-smm",
+      "name": "NSMBWii Volcano Outside Theme for SMM",
+      "type": "mod",
+      "version": "1",
+      "author": "WillyMaker",
+      "description": "This is my first mod.\nSo if you see something strange don't put nervous.\nWell have fun!\n(Credits in the folder)\nP:D Im spanish so if you see again something strange in this post don't put nervous.",
+      "download": "https://mariomakingmods.github.io/localhost/VolcanoOutsideV1e188.rar_%3b?id=swTxkONJm6Cbe0Cv",
+      "thumbnail": "https://mariomakingmods.github.io/localhost/180502-2046-53d695.jpg?id=QAX4PaXwcWzoHk8P",
+      "screenshots": [
+        "https://mariomakingmods.github.io/localhost/180502-2046-53d695.jpg?id=QAX4PaXwcWzoHk8P",
+        "https://mariomakingmods.github.io/localhost/180502-2047-13408a.jpg?id=P5DlTPJOkwgarPuv"
+      ]
+    },
+    {
+      "id": "super-mario-bros-3-allstars",
+      "name": "Super Mario Bros.3 Allstars",
+      "type": "mod",
+      "version": "1.20",
+      "author": "princess ripblue",
+      "description": "Super Mario Bros.3 All Stars Mod!!",
+      "download": "https://download1530.mediafire.com/w8eep49jw4ugafrPbiIbDYzEXvlWc7QvRKIjhteoMjsHTAxOtx2Kzjzzzw93RKZCeWA7jgUjm72JSw-XatYd4cRVYnwbYeGpIqrsPDJTqhTELJditUmGl8yqZdy70VSEjplDevYDi391A1w4wr_1px-78Buj792cUdH8OuphOEZb/1jjt40t0uo090fb/SMAS+SMB3Mod+ver1.20.7z",
+      "thumbnail": "https://img.youtube.com/vi/WWMwFbzEh8k/maxresdefault.jpg",
+      "screenshots": [
+        "https://i.imgur.com/MKBZDnU.png",
+        "https://i.imgur.com/WT82KoB.png",
+        "https://i.imgur.com/pKiHhix.png",
+        "https://i.imgur.com/aYHzblz.png",
+        "https://i.imgur.com/lcAPnQx.png",
+        "https://i.imgur.com/x9hEup5.png"
+      ],
+      "tags": [
+        "released",
+        "wiiu"
+      ]
+    },
+    {
+      "id": "luigi-in-super-mario-maker",
+      "name": "Luigi in Super Mario Maker!",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "MasterVermilli0n",
+      "description": "OHMEGERD IT'S A LUIGI! SUCH WOW!\nPosted by GRAnimated\n\nSuch wow, indeed.",
+      "download": "https://download1335.mediafire.com/migvn1z1q4ggDos91kujpaFG7_wFagfSt58JzGDZ_y0xcdJzDNNwTg7kJ8aqRxUuy876kacfElV8aiybfmgYsNRcft-PE8GQWfdVoLp3BFPWcyMrBeYhw6KaG9LvH2QJmJZTwB4KV3rWmNyL4NaN6tEQEdG39QbNtQhEawxls-qe/08icagy6b54gxui/SMMLuigiU.zip",
+      "thumbnail": "https://img.youtube.com/vi/1HbMYn2Gkhg/maxresdefault.jpg"
+    },
+    {
+      "id": "desertic-cave-for-smm",
+      "name": "Desertic cave for SMM",
+      "type": "mod",
+      "version": "15",
+      "author": "WillyMaker",
+      "description": "Well i think what some people want this.\n(If someone want to help me with the bg i gonna thank him)\nThanks to Unsavory Maggot for make the Outside desert.\nThanks for Buntendo for make the two last decorations blocks (expands)",
+      "download": "https://mariomakingmods.github.io/localhost/DCaveByGSSB_V15f82.rar_%3b?id=nnOt7RX3Vz9SzkP8",
+      "thumbnail": "https://mariomakingmods.github.io/localhost/180506-2052-138483.jpg?id=KjDlBTF3HkALaxy6",
+      "screenshots": [
+        "https://mariomakingmods.github.io/localhost/180506-2052-138483.jpg?id=KjDlBTF3HkALaxy6",
+        "https://mariomakingmods.github.io/localhost/Process%20GSSB%2095%255c8c.png?id=0osXKu0DK2MNY6Md"
+      ],
+      "tags": [
+        "smm",
+        "nsmbwu version"
+      ]
+    },
+    {
+      "id": "volcano-theme",
+      "name": "Volcano Theme",
+      "type": "mod",
+      "version": "3.0",
+      "author": "Epic_stuff",
+      "description": "This theme is... Well... A volcano! It's slightly more advanced than your average theme since the rock decorations require to be placed in a specific way. I got it as close as I could to this: https://www.youtube.com/watch?v=gRKjTsdCedE\n\nCredits:\nPokerFace - Any and all original sprites\nVLDC8 composers - In-game music\nCustom editor remix - Me\nBuntendo - Wii U port\nHüseyin der Mächtige - 3DS music .bcstms",
+      "download": "https://uc63dc8251c1374fdaef5cace7dc.dl.dropboxusercontent.com/cd/0/get/DL99RCFyHtPLcVkGiUrAl43d_hIhFZxWsHkVg72FDG8hquHH9ygR2hETn5srqC5kxOgk6SBCknU0Y-TtSX_x0vwfOpx1E2H2w9ajpibA47k4MDyxbdYGWzyelQCYqKVMU6pLFRmqbud77g8y3ST1rYFK/file?_download_id=0691991379660885616776776716176567527156502240817238591103394546056&_log_download_success=1&_notify_domain=www.dropbox.com&dl=1",
+      "thumbnail": "https://i.imgur.com/uMMqTf2.png",
+      "screenshots": [
+        "https://i.imgur.com/KhNdqtB.png",
+        "https://i.imgur.com/bbreRLZ.png",
+        "https://i.imgur.com/zvmPHfp.png",
+        "https://i.imgur.com/uMMqTf2.png",
+        "https://i.imgur.com/4e6MAAm.png",
+        "https://i.imgur.com/NoKirKP.png"
+      ],
+      "tags": [
+        "3ds",
+        "smw",
+        "wii u",
+        "switch"
+      ]
+    },
+    {
+      "id": "undermaker",
+      "name": "Undermaker",
+      "type": "mod",
+      "version": "2",
+      "author": "Tanoo",
+      "description": "* oh hey kiddo\n* there's two versions of the demo here\n\n* y'know the one in the\n                      is the latest\n  version right?\n\n* oh wait guess you\n  couldn't read that\n* i said \"black text\"",
+      "download": "https://download1474.mediafire.com/i6lrfozhpreg6iT4RVnGxy0i2dGm-v9ol0jAfGcD1ofmBphUnpRBkmqn-xPsvG0eZrA2FHeDHgNsv9zn1UOLc6aDaYOMycpYSVnb83o0q-uGyybqhVaVe6y1UmXfqH9tf-L32ePOYP96MA0u4w9K8xT_UvvTJjijm16GSDUokHJP/e5391ag47upqfhn/Undermaker-Humans-Demo-Version2.zip",
+      "thumbnail": "https://mariomakingmods.github.io/media.discordapp.net/attachments/424527725382991893/538845367144415253/under_maker.png",
+      "screenshots": [
+        "https://mariomakingmods.github.io/media.discordapp.net/attachments/424527725382991893/538847431102693376/WiiU_screenshot_TV_018DC4844.jpg?width=878&height=494",
+        "https://mariomakingmods.github.io/media.discordapp.net/attachments/424527725382991893/538847444419608597/WiiU_screenshot_TV_018DC_44844.jpg?width=878&height=494",
+        "https://mariomakingmods.github.io/media.discordapp.net/attachments/424527725382991893/538847431148961812/WiiU_screenshot_TV_018DC_14844.jpg?width=878&height=494",
+        "https://mariomakingmods.github.io/media.discordapp.net/attachments/424527725382991893/538847436446236702/WiiU_screenshot_TV_018DC_34844.jpg?width=878&height=494",
+        "https://mariomakingmods.github.io/media.discordapp.net/attachments/424527725382991893/538847434743218177/WiiU_screenshot_TV_018DC_24844.jpg?width=878&height=494",
+        "https://mariomakingmods.github.io/media.discordapp.net/attachments/424527725382991893/538847449545048089/WiiU_screenshot_TV_018DC_54844.jpg?width=878&height=494"
+      ],
+      "tags": [
+        "undertale",
+        "deltarune",
+        "costume",
+        "wii u",
+        "smb1"
+      ],
+      "changelog": "Version 2\n- Added more music -\n- Fixed Darkworld Kris costume -\n- Moved CORE theme from Castle to Ghost House -\nVersion 1\n- A secret Sans is hidden for you to try to find -\n- A secret Dogsong is also hidden -\n- Kris' Darkworld costume reverts to ?-Box when facing left - "
+    },
+    {
+      "id": "snow-theme",
+      "name": "Snow Theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "MayroSMM",
+      "description": "Before saying anything, I need to point out that the theme was made by zachabossaloler, not me. I'm simply making this thread for organisation purposes.\n\nThis theme replaces the overworld theme to create a snow/ice environment. It also contains recoloured pipes, vines, etc...",
+      "download": "https://uc62544e309ec61825cafec3fe5e.dl.dropboxusercontent.com/cd/0/get/DL_f7gpatwotb5Ooc_7FEkKXmpfPPAixOGGteYMK8VzMtPOKNV8UM_KFFqwTqyF6K_4h5ABvjQnmDZe8S0KvKp5rQrKqlfQP9fILLrwjKPjwllSoO460XQX6mYotoJ-LX0kJ0-GxQLF-4xf-Zte8OdEI/file?_download_id=03285041141531353831733965939056952272069155148268735924754678538&_log_download_success=1&_notify_domain=www.dropbox.com&dl=1",
+      "thumbnail": "https://img.youtube.com/vi/y6B-NV9c5k4/maxresdefault.jpg",
+      "tags": [
+        "smb1"
+      ]
+    },
+    {
+      "id": "zoomed-in-acorn-plains-bg-inspired-by-nsmbu",
+      "name": "Zoomed In Acorn Plains BG (Inspired by NSMBU)",
+      "type": "mod",
+      "version": "2",
+      "author": "WillyMaker",
+      "description": "I tried to remake the background of 1-3 and 1-4 from NSMBU (The BG includes the original textures from the original bg of NSMBU)",
+      "download": "https://download1587.mediafire.com/nvbivk3ebulg0LBCrw2JtzX3wcIIQFgy8aBZrerEF7sbxijvwD7yyl1cpgmfJ21VAAX7alwR8WjbNtJ7E1wXkcd-ztg2gIt2HNxq1Zw21MCvr6cjoqqZJVM7XtYKj5lMdcNqA41jhbGLp5DK5xVAJ6Xejb7DmbOTXvKY5ASn5GpH/bnixbc6gaihiox6/AcornPlains2.rar",
+      "thumbnail": "https://i.imgur.com/TaNtxHN.jpg",
+      "screenshots": [
+        "https://i.imgur.com/TaNtxHN.jpg"
+      ],
+      "tags": [
+        "smm wii u"
+      ]
+    },
+    {
+      "id": "acorn-plains-bg-without-the-cliffs",
+      "name": "Acorn Plains BG Without the Cliffs",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "WillyMaker",
+      "description": "Yeah, looks cool, in my opinion.\nYou can choose: -With Peach's Castle or without.",
+      "download": "https://download1078.mediafire.com/ddblimrg8pyg7R920rHSw4Ctay33SuqOfWZu4vDpAtfhBq1LYmn6Z83_COm1dwhRTYJiFCWlV7uwXmN7dqPMRKnls4kVydJ-bWNeNAbCXf3LXbBSDNHJWe1EXkkAnvQQTiW9BEvWSfszzgb-nONUxLI8ki3pArQDbKK8fr1iDOz0/h4hffb5s4i6rf8j/AcornPlainsBG.rar",
+      "thumbnail": "https://i.imgur.com/UhhbGlt.jpg",
+      "screenshots": [
+        "https://i.imgur.com/UhhbGlt.jpg",
+        "https://i.imgur.com/LEUjrQS.jpg"
+      ],
+      "tags": [
+        "smm wii u"
+      ]
+    },
+    {
+      "id": "they-came-from-nintendo",
+      "name": "They Came From Nintendo!",
+      "type": "mod",
+      "version": "1.0",
+      "author": "Unsavory Maggot",
+      "description": "What's new:\nOver 50 changed enemy sprites for the SMB1 style! Face adversaries from all kinds of NES/Famicom titles -- see how many you can name! ",
+      "download": "https://uc59744bea019f6b563bc91efa2c.dl.dropboxusercontent.com/cd/0/get/DL9gOOX1tfqiLlXTSZDsbVa-htR6_TbNNXVNmBQt8FHZBoqsLVOPMpBuflGoIO0UFxcLLkrSddR7HwILih4Sl06cN9HLaQQ02BUKlsPqIadk61y9qcLVKHmJ5q7MAGPpA6k/file?dl=1#",
+      "thumbnail": "https://img.youtube.com/vi/VH8GLxJmIJ4/maxresdefault.jpg",
+      "tags": [
+        "smb1",
+        "wii u",
+        "1.0"
+      ]
+    },
+    {
+      "id": "dry-bowser-in-smb1",
+      "name": "Dry Bowser in SMB1",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "WillyMaker",
+      "description": "Dry Bowser is now inside Super Mario Bros 1",
+      "download": "https://download1072.mediafire.com/bfmwk6njgrfgbLMwfD1bDFBrFacRitj3dVcvhrJ1k69T1UY0sNgB9JuY-FNM_Tzkqf_Bq5jtq1SZdHWc5UoQfvY7Ln7rM4jB12bm9F3mcc0wsbgVddrWNasS1XdW64zZwL_n3bRyh_bW9eVlISHXrOkwz739ZsRK2A-KLy1x6mNV/57c17j7wxxpaa5e/DryBowserSMB1.rar",
+      "thumbnail": "https://i.imgur.com/GiT83cn.png",
+      "tags": [
+        "smm wii u"
+      ]
+    },
+    {
+      "id": "dry-bowser-in-smw",
+      "name": "Dry Bowser in SMW",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "WillyMaker",
+      "description": "Yes, now: SMW\n-WillyMaker: Make the bone-throw animation, port to SMM.\n-JX444444: Sprites.",
+      "download": "https://download1325.mediafire.com/r1q6w6jkc9cghb-w_j-aV4L6fcIGeYBbD85fqBKxmFWPlSkJ9MQtDP5INsuy9B2RuG9Th9KwREUbMzhGOA71C49CYntMLNLu7ckpPyh1oC2NiB9eBovCwVXeqKe49WQHf-Jq91yeSoK_pgGU70oF2DVTLUXOAEc0QD4qRNrWLtiy/fekac5tb0yjtm31/DryBowserSMW.rar",
+      "thumbnail": "https://i.imgur.com/0xys0HT.png",
+      "tags": [
+        "smm wii u"
+      ]
+    },
+    {
+      "id": "super-mario-maker-custom-costume-mario",
+      "name": "Super Mario Maker Custom Costume Mario",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "princess ripblue",
+      "description": " Successfully added Costume Mario which originally does not exist in Super Mario Maker\nYou can add it by editing BossXXXX.pack and Static.pack\nThe added Costume Mario is available at Easy 100 Mario Challenge",
+      "download": "https://download1581.mediafire.com/pfh1l0f88dig2WrcfUQ5jHnYBnvdqN19HdqxXdFjhFWIgbncLRJwjBoKG4hK377XNL83kqJYCL3G90zd61gtRQz-BZQ4B9tOceP6yyCrlmtPsMFUGuTIhj_MxwrChNGS6xPlx9QnLNBKuQ8d8bOPhZRoFMQsI-pNXLCKtwm5qAlE/z63767nad2umswq/Custom+Costume+Mario.zip",
+      "thumbnail": "https://img.youtube.com/vi/hlngvaZazUk/maxresdefault.jpg",
+      "screenshots": [
+        "https://mariomakingmods.github.io/i.imgur.com/7PQidqp.png"
+      ],
+      "tags": [
+        "wii u",
+        "costume mario"
+      ]
+    },
+    {
+      "id": "dry-bowser-in-smb3",
+      "name": "Dry Bowser in SMB3",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "WillyMaker",
+      "description": "Yes, Dry Bowser!\n\n\nCredits:\nWillyMaker: Port the sprites to SMM and make the fire\n\nSprites and sheet: ultimawarrior232 and shy guy kingdom.",
+      "download": "https://download1527.mediafire.com/2axg0f56jrigv54dQzMmAbseKExOrhuU-foh7vEFSE5mW09MzCavntkjfSqnQBiOBRlCUol-T6u2P2trZ2LZ0fgLXnv2dVbVJBr8ZbCq98VKATnsf0WBlZCDNGrHl--OzqUWt965JKlaPWGAPG9rBNHBshaWBSFd5WLyXKGmKuvp/w7jdfm1cptjkofa/DryBowserSMB3.rar",
+      "thumbnail": "https://i.imgur.com/tx2fA94.jpg",
+      "screenshots": [
+        "https://i.imgur.com/tx2fA94.jpg"
+      ],
+      "tags": [
+        "smm wii u"
+      ]
+    },
+    {
+      "id": "monochrome-theme",
+      "name": "Monochrome Theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Brick",
+      "description": "A theme that only uses two colors. Black and White.",
+      "download": "https://mariomakingmods.github.io/localhost/Monochrome963c.zip_%3b?id=N9hy989YL8M9Uzd8",
+      "thumbnail": "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/451443218765185050/454453453402669067/MonochromeCropped.jpg",
+      "screenshots": [
+        "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/451443218765185050/454453453402669067/MonochromeCropped.jpg"
+      ],
+      "tags": [
+        "smb1",
+        "wip"
+      ]
+    },
+    {
+      "id": "nsmbu-negative-overworld-theme",
+      "name": "NSMBU Negative Overworld theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "WillyMaker",
+      "description": "I know, i know, it's very creepy with that music.",
+      "download": "https://download1591.mediafire.com/0d8e3x5ef4ggYYiiKSXoAYHrAUD1zUUQoC984HKDobAErW-WTs4pnFk3C1oNHffoSR8f6j6NHx9o_HWF7SAx1aZG1xlyI9hxuYtjHZP0Ns7oKt81Tn1DVzU-Kh2ktDKenACzaZC7pSgRAm-C9mfs59bXZcM2ohC7TY9rHa5G7ko0/s0o0zrp9mrgc459/OverworldReversed.rar",
+      "thumbnail": "https://mariomakingmods.github.io/localhost/180809-1619-225345.jpg?id=1hmhemShs2VMfK0l",
+      "screenshots": [
+        "https://mariomakingmods.github.io/localhost/180809-1619-225345.jpg?id=1hmhemShs2VMfK0l",
+        "https://mariomakingmods.github.io/localhost/180809-1619-313f24.jpg?id=6ig79F7vc1QolQDn"
+      ],
+      "tags": [
+        "smm wii u"
+      ]
+    },
+    {
+      "id": "jungle-theme",
+      "name": "Jungle Theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "WillyMaker",
+      "description": "Dynasty Lobster: Make the Tileset and Background\n\nWillyMaker: Port the mod: Wii U\n\n-Replaces Castle and Overworld (Castle with Poison Water)",
+      "download": "https://download1979.mediafire.com/6wl2vrs219bgx-pSIG217Dq8Q1hL6RdkLW3BH_XWQ25UbU04GlQhONjx88wPFL276eeXy-lH2Td2Du3fJGjzrcvgADxuVV1PhK4xmZnd1OsledsF9yjWHeO-QkKOnPUvtW5XwCV1gnWMpbgdpR0tPIpp-bhMzacvuOop9672xhD-/xum8xeadf8d8htv/JungleM3.rar",
+      "thumbnail": "https://mariomakingmods.github.io/localhost/Sin%20t%c3%adtulo224a.png?id=dtvWtD2oCBl7Pdn0",
+      "screenshots": [
+        "https://mariomakingmods.github.io/localhost/Sin%20t%c3%adtulo224a.png?id=dtvWtD2oCBl7Pdn0",
+        "https://mariomakingmods.github.io/localhost/smb3_forest_theme_background99e6.png?id=bpuWplXfDcYcEVH9"
+      ],
+      "tags": [
+        "smb3",
+        "wii u",
+        "smm"
+      ]
+    },
+    {
+      "id": "autumn-theme-outside-and-inside",
+      "name": "Autumn Theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "WillyMaker",
+      "description": " Background and music: WillyMaker\nTileset and fast, edit music: AboodXD\nLouiskovski: Made all the NSMB DS Textures and Animations.",
+      "download": "https://download1511.mediafire.com/ppluf13d17dgFRxWE8-S0CDESkbMAXsrePD8HGVieP9C3WpRjoXXc3SYQ9-k1q3u7ltN-XLEZkL-8NiBbAJ1KKwEDZbyx3sJggKU1ZJ3qezeZv3GwfvTQsrhjiyjvqmW_KbxgIYCg-ediIS-FCiyfra9NVSZmJ7rHMZ6-DTlwpRL/tain4lxuus34qsc/AutumnDS.rar",
+      "thumbnail": "https://mariomakingmods.github.io/localhost/180811-1713-5045d0.jpg?id=ivqb5YfAt4c99gQS",
+      "screenshots": [
+        "https://mariomakingmods.github.io/localhost/180811-1713-5045d0.jpg?id=ivqb5YfAt4c99gQS"
+      ],
+      "tags": [
+        "newer ds",
+        "smm wii u"
+      ]
+    },
+    {
+      "id": "smb3-desertic-cave",
+      "name": "SMB3 Desertic cave",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "WillyMaker",
+      "description": "This is the cave from: 4-3 and 2-(idk the number)\nWell other mod for SMM Wii U!\nDesert theme by: dynastylobster",
+      "download": "https://mariomakingmods.github.io/localhost/SMB3DCaved072.rar_%3b?id=Rw3ENtPQmXfLBf7e",
+      "thumbnail": "https://mariomakingmods.github.io/localhost/180805-1741-550f1d.jpg?id=STCof7iVYNPOkYQr",
+      "screenshots": [
+        "https://mariomakingmods.github.io/localhost/180805-1741-550f1d.jpg?id=STCof7iVYNPOkYQr"
+      ],
+      "tags": [
+        "smm mods",
+        "wii u"
+      ]
+    },
+    {
+      "id": "old-switch-switch-mod",
+      "name": "Old Switch (? Switch) Mod",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "WillyMaker",
+      "description": "Who wanted what the ? Switch back to Super Mario Maker from the first version?\nWell here is the mod for this.",
+      "download": "https://download1589.mediafire.com/98agjsktcghg4VSSWbEOKzqYIml-txZ-b9KnGq4JbPCFyGAkz3u87oAHCJ1A-NxwqZ8mqd48LRheamEIom9MQRZGqZrMkU74kKKIb9qfhaeK_9p_abrKO_GoBOnCkXBrbCU-WJWZmuylpU-gK0hCB48YkphXJkBaILr7V6-p51C_/r3vz4y69d27ci61/Old+Switch.rar",
+      "thumbnail": "https://mariomakingmods.github.io/localhost/180725-2126-119307.jpg?id=1MLeZatYfP2lgdBF",
+      "screenshots": [
+        "https://mariomakingmods.github.io/localhost/180725-2126-119307.jpg?id=1MLeZatYfP2lgdBF"
+      ],
+      "tags": [
+        "smm wii u"
+      ]
+    },
+    {
+      "id": "smb3-jungle-theme",
+      "name": "SMB3 Jungle Theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "WillyMaker",
+      "description": "I wanted to do this in the castle theme because i can replace lava with the \"Poison water\" but idk how to change the black background from the theme. So i replaced the plain theme.\nTileset: Mayroh No\nBackground and music: MrStickventures\nPalette and jungle theme image: GuilleSSB\nI fixed the background a bit for put it in SMM.",
+      "download": "https://mariomakingmods.github.io/localhost/JunglaM38aef.rar_%3b?id=LnWyKbloknlEeitH",
+      "thumbnail": "https://mariomakingmods.github.io/localhost/Sin%20t%c3%adtulo9640.png?id=tN75bckC8FKU2soy",
+      "tags": [
+        "smm wii u",
+        "release"
+      ]
+    },
+    {
+      "id": "background-green-screen-streaming-mod",
+      "name": "Background Green Screen Streaming Mod",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "megamech",
+      "description": "Hi Folks,\n\nThis mod is for twitch streamers. You can replace the backgrounds of most of super mario maker with whatever you want using a greenscreen/chromakey; Youtube videos, facecam, you name it! It's really cool! Easily and quickly swap backgrounds with Open Broadcast Software (OBS). So this could be good for quickly testing your background mods.\nCurrently does not work for NSMBU and the levels that have hard coded backgrounds.\nI have also changed any texture with a door to also have the chromakey.",
+      "download": "https://drive.usercontent.google.com/download?id=1fpW1y2PZA8V3BnSQkEU-6OWq_XMSKRA2&export=download&authuser=0",
+      "thumbnail": "https://i.imgur.com/6GW8jUP.jpg",
+      "screenshots": [
+        "https://i.imgur.com/6GW8jUP.jpg"
+      ],
+      "tags": [
+        "wii u",
+        "released"
+      ]
+    },
+    {
+      "id": "guest-star-ramiro-sowut",
+      "name": "Guest Star @RAMIRO_SOWUT",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Daniel T. Gaming",
+      "description": " This is a mod that me and my friend, PickPen (@Evan_Doodle on Twitter) that replaces Super Mario Maker enemies and characters with Twitter Artists.\n\n\nList of people in this mod:\n\nthehelmet_guy\n\n@PuppoWorld\n\n@ScribbleN0te\n\n@GiIvaSunner\n\n@Evan_Doodle\n\n@Daniel_T_1985\n\nand the Guest Star: @RAMIRO_SOWUT",
+      "download": "https://download1585.mediafire.com/i1m554tfdomghvmaTrxFIwdbMJePrqK9vRmq_5T65kZtHvYytSxEe4v8uBZ8AdDbHG7PiGkgTCo-AKzcmVyBujqWelY6ThTTA1Bv5dvbv_REdP3e8Wc3w5RbprMcO3YCX-jEhNP4cXZqey8dSacexF4G6AroIWWIur8meCxSaOFI/eedwvxbb3qb7j3x/SMMGSRAMIROSOWUT.rar",
+      "thumbnail": "https://i.imgur.com/zstAlnK.jpg",
+      "screenshots": [
+        "https://i.imgur.com/CfTb0rB.png"
+      ]
+    },
+    {
+      "id": "princess-peach-maker",
+      "name": "Princess Peach Maker",
+      "type": "mod",
+      "version": "1.20",
+      "author": "princess ripblue",
+      "description": "You can play Super Mario Maker with Princess Peach\nCurrently Mant Peach NSMBU Peach is not implemented",
+      "download": "https://download1478.mediafire.com/8e1c4ntvkwfgihLNvkoC-oATwaT-kQzcEa95a1b-SH_IJIc6IfjmuXR5bDzozIof6IND7VhEN-wsxtq_H4_ppD0pgb2N-JobSENAQleH_D0CiK82Qv2NNmjuxGCaxgJYKXQCbw78hnqZY71Dnz651jWEOCcnxQWIw7glPPqmeEKf/jsykyn3cgfv7x51/PrincessPeachMaker+ver1.20.7z",
+      "thumbnail": "https://img.youtube.com/vi/u-aD59p2ldE/maxresdefault.jpg",
+      "screenshots": [
+        "https://i.imgur.com/9s37QZP.png",
+        "https://i.imgur.com/HGFfv0z.png",
+        "https://i.imgur.com/3HuugxM.png"
+      ],
+      "tags": [
+        "wiiu"
+      ]
+    },
+    {
+      "id": "the-meme-theme",
+      "name": "The Meme Theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Buntendo",
+      "description": "I made a meme theme for some reason.\n\nI'm sorry for making this.",
+      "download": "https://download1648.mediafire.com/k226xn0nmlcgDdS7_jYXZRRfUUQdY6WccEScHnMPXZ2zovOB7ZQLFaoTqTf63pH4wZdaWj3EfMAzELOiXKtdTHKI7_pr_34MuHKamr4gK4Lp8lSbRQQ3YKeOCEKJCdytntXl_sDcf98iSBE5RJEj5QmiMqZQE5vmo5m48fD3qWRm/b8h9o8oi4dxx61x/ZOOTOPIA.zip",
+      "thumbnail": "https://i.imgur.com/VT1QJBT.jpg",
+      "screenshots": [
+        "https://i.imgur.com/VT1QJBT.jpg"
+      ],
+      "tags": [
+        "smw",
+        "wii u"
+      ]
+    },
+    {
+      "id": "all-night-nippon-super-mario-bros",
+      "name": "All Night Nippon Super Mario Bros.",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "princess ripblue ",
+      "description": "the Mini Mod\nAll Night Nippon\nSuper Mario Bros.",
+      "download": "https://download1530.mediafire.com/d4tz9mjsgicgkjUyE1XBI3_fVRrTjhLgwKe5j00KCDrxtTkiuvrDkS67fVU32m5_xmjzaoHTvFRRvrmahJ6HOZI6fEs9QNIZaQ2L5WdZNRBEUU0O5Jd_55XpEV7v0jujdpPSty-4g2CMzSHpBxVz6ZqtSGSA5OOcdRdIb1euCnKL/8838g43uir2px96/All+Night+Nippon.7z",
+      "thumbnail": "https://img.youtube.com/vi/9F852zdpT6w/maxresdefault.jpg",
+      "screenshots": [
+        "https://i.imgur.com/DOn0J5s.png"
+      ],
+      "tags": [
+        "wii u",
+        "smb1"
+      ]
+    },
+    {
+      "id": "w-i-p-great-giana-maker",
+      "name": "W.I.P. Great Giana Maker",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Unsavory Maggot",
+      "description": "Here's what's done:\n- Overworld + BGM\n- Underground + BGM\n- Ghost House + BGM\n- Castle + BGM\n- Title BGM\n\nTo-do:\nBGM Insertion:\n- Dead BGM\n- Clear BGM\n- High Score BGM\n- Game Over / Boss BGM\nGraphics:\n- Water (?)\n- Airship (?)\n- Heroes\n- Enemies\n- Non-Giana Assets\n- SFX",
+      "download": "https://uc958c5f78ee13346aca9ab32906.dl.dropboxusercontent.com/cd/0/get/DL9bUxP4dUuTHPl7GYjlCx8ax19vv-z0-nPVvdUEqc_5Rcl2SVFLL21MMyffDps3VST2p2iQmHRu2Px7DPNOUjTCS6h_egTBgOnWYhR8qZmw0arDsZO2IuDgOtGNWgQQoJsa9Xm0_fWf3ONNce-kDB8C/file?_download_id=6287349626842805252750946800676149177777537081147590790134241156&_log_download_success=1&_notify_domain=www.dropbox.com&dl=1",
+      "thumbnail": "https://mariomakingmods.github.io/localhost/Image4642a6.png?id=l9c7Hp8tbmBt2flj",
+      "screenshots": [
+        "https://mariomakingmods.github.io/localhost/Image4642a6.png?id=l9c7Hp8tbmBt2flj"
+      ],
+      "tags": [
+        "theme",
+        "smb1",
+        "wii u"
+      ]
+    },
+    {
+      "id": "windows-98-in-super-mario-maker",
+      "name": "Windows 98 in Super Mario Maker",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Buntendo",
+      "description": "Have you ever thought, \"Man it sure would be cool to run around my desktop as Mario!\"\nNo? Oh well then.\nIntroducing..\nWindows 98 in Super Mario Maker!\n\nThis mod features four semisolids, new ground, new mushrooms, new hard & ice blocks, and bridges!\nBut you're thinking.. Buntendo, you silly B#$ch! You can only do three semisolids.\nBut I reply, But it's quite simple to make the fourth semisolid in this theme!\nJust place the bridge over the top of any semisolid, and extend it to the length of the semisolid!\nThen you have gray, blue, red, and green.",
+      "download": "https://download1530.mediafire.com/ug6eklva82rgblMMA0o8FUm11pl143namHGt8bO0BW9viIQHoxXMufbE6USAfUb8nP-Z9QEL6xjCdUwwyljH9WgisNz-EW0CCEij71NbhlacUyN83iALC-E974L1VJhr7E79-Gy6WkgrDoU0BZviXRvHx_6TIEzA2BTaeU2g4k5K/yzpat6691st7oru/Windows+98.zip",
+      "thumbnail": "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/319517379841359872/387685479140818955/WiiU_screenshot_TV_018DC_6.jpg",
+      "screenshots": [
+        "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/319517379841359872/387685479140818955/WiiU_screenshot_TV_018DC_6.jpg",
+        "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/319517379841359872/387666458542473218/WiiU_screenshot_TV_018DC_4.jpg"
+      ],
+      "tags": [
+        "smw",
+        "wii u"
+      ]
+    },
+    {
+      "id": "the-seaside-kingdom",
+      "name": "The Seaside Kingdom",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Buntendo",
+      "description": "Here's Bubblaine!\n\nReplacing SMB1's Overworld theme is Super Mario Odyssey's Seaside Kingdom! Here you can find sandy ground, purple pipes, and umbrellas to boot. There is no custom music for when editing a level, but the overworld makes up for it with amazing music from Tater-Tot Tunes! (Seriously, check em' out, they're amazing!)",
+      "download": "https://download1654.mediafire.com/ekpxez7hm78gzE94mTYZApRROAP-zCn2SBOZ0mPw_uloWufNN-M2xIt5g0re21t7JAeFWMc-dDZRs5sxMyd_Xh3NaGJ6NOdTZenUz5SQ8vSyHzSzeaK-bK2thNIfCeldkYaW83weTi476YlYEbKVc0GV6-MAM6UmrOLyWqckCOVQ/0yiawcckz0x0yw3/Content.zip",
+      "thumbnail": "https://i.imgur.com/exNuaRn.jpg",
+      "screenshots": [
+        "https://i.imgur.com/exNuaRn.jpg"
+      ],
+      "tags": [
+        "wii u",
+        "smb1"
+      ]
+    },
+    {
+      "id": "mount-volbano-luncheon-kingdom",
+      "name": "Mount Volbano / Luncheon Kingdom",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Buntendo",
+      "description": "Super Mario Odyssey's Luncheon Kingdom is now in Super Mario Maker!\n\nYou know how I've been posting new mods? Yeah, good. Expect more.\nThe colorful Kingdom we're all excited to play is coming at the end of October,\nso I guess this is the closest thing that we have to the real thing?\nThe game's beautiful purple pink mountains can be find here, with\nthe sunset you should expect by now!\n\n\nTater-Tot Tunes is back too, with music based on the Luncheon Kingdom!",
+      "download": "https://download1325.mediafire.com/76xa4ixdaz1g6RNHl3kl0H1FXoR_t_8wtpHVt7Q_wXZD2yeI-LxsjSm5R9Wmq2tUffeMHifVCZ5PqTLV1pf-JFSNA_USQeSML44DahXbibPS4QHR7ooRuFUhu7yUgAnBZYebDHfmlF-iSd8dZvDbfWdGwWNXvEZlFMvIsryZLlUI/cc102ud1my5v3bq/Luncheon.zip",
+      "thumbnail": "https://mariomakingmods.github.io/media.discordapp.net/attachments/347900213513420800/362417548370771978/Luncheon2beb.jpg",
+      "screenshots": [
+        "https://mariomakingmods.github.io/media.discordapp.net/attachments/347900213513420800/362417548370771978/Luncheon2beb.jpg"
+      ],
+      "tags": [
+        "wii u",
+        "smb1"
+      ]
+    },
+    {
+      "id": "smb2-underground-theme",
+      "name": "SMB2 Underground theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "zachabossaloler",
+      "description": "This is just a small mod I made theirs a new mod upcomming that you can see on my youtube channel",
+      "download": "https://ucfd6e845c723f9efa2834f097b6.dl.dropboxusercontent.com/cd/0/get/DL9nOwtIa0I6CahxmlkkP7D0kX9IZIPdByIMiQcZvfSMAvX9NAfmBw3oo_O5l77O4TJJ7iHiCTvIL5s1YJlKvSaxVUqSFoPViJ7dwy6hB27Vh3N-WjNipy9Czc3tLPcwELihE9wnr8r1qm2h2NMuvmC3/file?_download_id=0199977402711621960688617434401753586623546556711020767330865076095&_log_download_success=1&_notify_domain=www.dropbox.com&dl=1",
+      "thumbnail": "https://img.youtube.com/vi/GBz_DLqNX3A/maxresdefault.jpg",
+      "screenshots": [
+        "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/397507185531420678/429929035091673089/smb2.png",
+        "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/397507185531420678/429929067366711306/smw.png"
+      ]
+    },
+    {
+      "id": "playable-colorful-yoshis-in-smb3",
+      "name": "Playable Colorful Yoshis in SMB3!",
+      "type": "mod",
+      "version": "2",
+      "author": "Unsavory Maggot",
+      "description": "I've updated the Colorful Yoshis mod to work with the US rip, and (hopefully) fix other compatibility issues as well!",
+      "download": "https://uccbeb261e6382672219bc529cfe.dl.dropboxusercontent.com/cd/0/get/DL_H6tIzzytZIyzMZMvBRG87mLHrbv93svoe_1Py8Qeo_gECnLthP17pbLdvfEtBGCeMdyenZh5jm5LrjOGEaT-lXhFZwtyRJ7CNGY5kpVgy7Bv_m2JJud9mWumgN6cMugwsjaB45oUcqFlkEZtMvE2j/file?_download_id=204411604392595980837305870724652869631303862099089241007628844786&_log_download_success=1&_notify_domain=www.dropbox.com&dl=1",
+      "thumbnail": "https://i.ytimg.com/vi_webp/NfwUOi1B3xg/hqdefault.webp",
+      "screenshots": [
+        "https://mariomakingmods.github.io/localhost/Image116fdf.png?id=7F9WxOHDpWRYOGFZ"
+      ],
+      "tags": [
+        "character",
+        "smb3"
+      ]
+    },
+    {
+      "id": "super-minecraft-maker-minecraft-theme",
+      "name": "Super Minecraft Maker (Minecraft Theme)",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "GRAnimated",
+      "description": "Minecraft in Super Mario Maker is a mod for Super Mario Maker.\nIt replaces 4/6 of the themes in the Super Mario World style.\nIt also replaces around 15 objects/enemies.",
+      "download": "https://uc874da77156f1f1329e3b155e28.dl.dropboxusercontent.com/cd/0/get/DL_8cNw9GuIeUY3amBi01O6s6Bm6ByqQAvJ7SmZUyjrwFU9YuXdDM4IoZiwbjgbMfyLBjlPGUlnG9vQHgWDYMcUCWdBHbHjEF80PjQgQM1hFY0k9ZpNlmrj5bMaxZMRKwNrdEaK1W6xJZZaavn8y9TN-/file?_download_id=766453381170317783805959482239030304597908352332035824080700938156&_log_download_success=1&_notify_domain=www.dropbox.com&dl=1",
+      "thumbnail": "https://img.youtube.com/vi/L36fKdkeBK0/maxresdefault.jpg",
+      "screenshots": [
+        "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/392046078930714624/422244272314515456/ground.png"
+      ],
+      "tags": [
+        "wii u"
+      ]
+    },
+    {
+      "id": "chinese-super-mario-world",
+      "name": "Chinese Super Mario World",
+      "type": "mod",
+      "version": "0.1",
+      "author": "princess ripblue",
+      "description": "I am aiming for the full version of Thalonius Chinese Super Mario World\nIt is still W.I.P",
+      "download": "https://download1530.mediafire.com/yjqr8bd091pgZ0gLUjkMdPsDHDvZaytIr45lS6XPSX_rXCLypadVwdrIU3LExESRMqKPb9ARuqSskEJdsm8eK4TYE8AMYKE7cG1uY1YDV55s5mQRYYkdBZQ1loC6yara1AF5weZ2e4aLmWg9k-v0_o79pgbhrU81VGMz2l8CJF5_/ovw2up1paqxe61u/Chinese+Super+Mario+World+W.I.P.7z",
+      "thumbnail": "https://img.youtube.com/vi/NQ507vI44_Y/maxresdefault.jpg",
+      "screenshots": [
+        "https://i.imgur.com/kTG2kz2.png",
+        "https://i.imgur.com/8z2lWxL.png",
+        "https://i.imgur.com/ri6dBcj.png",
+        "https://i.imgur.com/QEWuFLh.png",
+        "https://i.imgur.com/XvMYfwX.png",
+        "https://i.imgur.com/ItAWUfz.png"
+      ],
+      "tags": [
+        "wii u",
+        "smw"
+      ]
+    },
+    {
+      "id": "grass-theme",
+      "name": "Grass Theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "MayroSMM",
+      "description": " You know how Super Mario Maker has a grass theme? Well, SMB3 apparently uses a wooden theme instead. Not really sure why. So if you wanted to have a grass theme instead, I made you this:\n\n\nIt has a few glitches here and there. Sorry about that. It was a little error that happened when zachabossaloler imported it for me. ",
+      "download": "https://uca860f9b81d8ba9af3b751a397f.dl.dropboxusercontent.com/cd/0/get/DL8ptY3GpDZgcAf8fj4SpJg8VGiGspG5SJE0CSlxMJ2UGZc0HxRjfL4HlanTQjDsOb3c2V-AnN0CS94zDxFe3z2hxW4Vh8X1z5RH-6WEUz6Jfmt-HyRI0KDWDyg553MIaU_eVqNrm_DheyhogkIy5LV6/file?_download_id=45339863920503354599336828291785765946282653421447052451367493607&_log_download_success=1&_notify_domain=www.dropbox.com&dl=1",
+      "thumbnail": "https://img.youtube.com/vi/Yh9RiK8Jm9Y/maxresdefault.jpg",
+      "tags": [
+        "smb3"
+      ]
+    },
+    {
+      "id": "the-angry-video-game-nerd-adventures-mod",
+      "name": "The Angry Video Game Nerd Adventures Mod",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Daniel T. Gaming",
+      "description": "The Angry Video Game Nerd Adventures was released in 2013. I've always loved the game, and I thought about wanting to create courses using the aesthetics of it. I've recreated the course \"Future F-ckballs 2010\" in Super Mario Maker (https://supermariomakerbookmark.nintendo.net/courses/FEDE-0000-007E-680E) After knowing how to hack SMM, I wondered what I was gonna do next. And thus, my curiosity began to emerge and thought about what possibilities I have for a new mod. And so, I went with the Angry Video Game Nerd Adventures. The mod itself was a pain to make, since I individually recreated Most of the sprites myself, but the Happy Fun Candy Time (Ground) and Nerd sprites were ripped by the Spriters Resource user, Mario1999562. I had to edit them a bit so they would not only fit the grid of the Super Mario Brothers 3 sprite sheet, but so they could go along with the Small, Super, and Fire thing as well. Buntendo is also working on a Sound pack for it (It's coming soon, because there are some bugs with it that we'll be fixing) and NightYoshi370 is helping with a 3DS port of the mod, which will also be coming soon.\n\nGround: Happy Fun Candy Time\n\nUnderground: Future F-ckballs 2010\n\nGhost House: A--holevania\n\nAirship: Beat It and Eat It\n\nCastle: Laughin' Jokin' Numbnuts",
+      "download": "https://download1507.mediafire.com/dpm8030whgggYQkGVPej26vgppRAmBhS-pnsYYu5IPW6SEa03K2yE95BhqChmJgMlx6E8GoNEQdH5LazUMeF1JbB_Yt54-5O8Yiofqm5JH3fEEg0Wu_YghK8dgBCMdt1h0MamgCXbawIDRKVP4WW6Jpx0IPRdxaXUPCNvbNJaKmM/9b6hbxc7meu6x7m/SMMXAVGNA.rar",
+      "thumbnail": "https://i.imgur.com/LZ4EINz.png"
+    },
+    {
+      "id": "bonneton-cap-kingdom-v1",
+      "name": "Bonneton / Cap Kingdom (V1)",
+      "type": "mod",
+      "version": "1",
+      "author": "Buntendo",
+      "description": "Originally posted to Gamebanana, three months ago. This was my first public theme, so don't expect something too high quality.\nExpect a remake soon, maybe, possibly.\n\nSuper Mario Odyssey's Cap Kingdom is spooky. So why not bring it into Super Mario Maker..?\n\n\n\nThis mod replaces SMB1's boring Haunted House theme, with a more upbeat, but spooky theme based on Bonneton! If the tileset wasn't enough, you get to listen to some sweet 8-BIT Music by the incredibly talented Tater-Tot Tunes!\n\nYou can expect some more mods from me later on, as it seems like Mario Maker's Wii U modding scene is a bit slow.",
+      "download": "https://download943.mediafire.com/gq7u80xwh2sg6d1Hdr2KILxCYd-tnobfFFjzEBCGjCjF9_-Rq4T6BZJ8_HlN_OMlXYyJ2fRWI1-j9iCz7FWmpBrI0YIFWmh9fAww9SV3She-W9goDmEnBTr2OFrnNTiqAIie1tNMNNE9N9bNnHy6HWyCAfcpQyXotGVNw9EqbHK_/sdu1x5ea4om0o5k/CapKingdomV1.zip",
+      "thumbnail": "https://mariomakingmods.github.io/files.gamebanana.com/img/ss/textures/59c8f87db2046.jpg",
+      "screenshots": [
+        "https://mariomakingmods.github.io/files.gamebanana.com/img/ss/textures/59c8f87db2046.jpg",
+        "https://mariomakingmods.github.io/files.gamebanana.com/img/ss/textures/59c8feaadf2f6.jpg"
+      ],
+      "tags": [
+        "wii u",
+        "smb1"
+      ]
+    },
+    {
+      "id": "nimbus-arena-cloud-kingdom",
+      "name": "Nimbus Arena / Cloud Kingdom",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Buntendo",
+      "description": "Perhaps everyone has had the\nexperience of looking up at the\nclouds and imagining what it would\nbe like to live among them. As it turns\nout, as fantastical as it may sound,\nthere was once such a kingdom\nwhose citizens looked down on the\nworld from a fluffy, puffy paradise.",
+      "download": "https://download1501.mediafire.com/f6ymntqrycygGiJiIu809TpmaYLqcR4a3wQ-o3Slus8NZnlBC-6Y30P7sIHBTb1NpctGZTUzKENFoZY_FuyAEtGy5hDXdGXPPGBkj69iA_dE93l3rw-ISt7niP2dggWZm55A7q3FDF8_7lxsiWm4utuZqcgj7CzQjf5I3P3UizSP/km767bo1mybm28e/CloudKingdom.zip",
+      "thumbnail": "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/389984152059117579/392681592021057540/sky.png",
+      "screenshots": [
+        "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/374076533784051723/384404660284293128/WiiU_screenshot_TV_018DC_11.jpg"
+      ],
+      "tags": [
+        "smo spoilers",
+        "wii u",
+        "smb1"
+      ]
+    },
+    {
+      "id": "casino-theme",
+      "name": "Casino theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Epic_stuff",
+      "description": "Here's my take on a casino theme in SMM. As usual, please report any bugs you find to me via the Mario Making Mods discord server (https://discord.gg/btQdJNw).",
+      "download": "https://ucff19d5c21bd31bb40b5e782976.dl.dropboxusercontent.com/cd/0/get/DL_-1Nyvy9LNm1WOIwXkKatbqUfPJN-IS16aljRcx4ritZAm3iY-F9lu8x7i0SJda8znuuBdZslFU-4zh39tyxxteYf7Ya1dVO2IllJpqe0gouWSmblcpB_oqGXaSvPKVLhylg19Vox_IZvnGPNpiYHR/file?_download_id=0994493559048963435420634058286775433663298812989063449509211601&_log_download_success=1&_notify_domain=www.dropbox.com&dl=1",
+      "thumbnail": "https://i.imgur.com/VR1HUf1.png",
+      "screenshots": [
+        "https://i.imgur.com/EhRmUId.jpg",
+        "https://i.imgur.com/EQuztzY.jpg"
+      ],
+      "tags": [
+        "smw",
+        "wii u",
+        "3ds",
+        "switch"
+      ]
+    },
+    {
+      "id": "damn-it-text-edit",
+      "name": "DAMN IT! - Text Edit",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Buntendo",
+      "description": "this mod make game over say damn it haha funny fuck word xd",
+      "download": "https://download1589.mediafire.com/ckm0wggavgog2P7mMDksC4NqcSdk7ib0bU26LuJk2LHywpMimAL7buM4Y_SFdSSH0F4VrrMqRFLHDwnvmYVmEBglHcZxGuv4eiTS_CcprzawxCNGrFqc5Lcl3NuD1rDFfb-MRUGD1MqaBOlJweFLhoYhOKUZJQFplD2OkgOr4EXk/n3kvz4rsp5rkrbc/GAMEOVEREdit.zip",
+      "thumbnail": "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/332179811197911041/388431049954164736/WiiU_screenshot_TV_018DC_16.jpg",
+      "screenshots": [
+        "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/332179811197911041/388431049954164736/WiiU_screenshot_TV_018DC_16.jpg"
+      ]
+    },
+    {
+      "id": "sonic-the-hedgehog-theme",
+      "name": "Sonic the Hedgehog Theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Buntendo",
+      "description": "Two themes in one day?\nBuntendo, you f#$king maniac!\nYeah, yeah, I know.\nBut it doesn't always take a bunch\nof weeks to make a single theme. Cough cough, Metro Kingdom, cough cough.\nBut today I present to you, the nonspecific Sonic the Hedgehog theme!\n\nNow with this thread, I'll be doing something a bit differently.\nInstead of having one boring image of a bunch of things place weirdly to show them off,\nI took screenshots of me playing online courses!\n\n\nI think that's about it!\nAnyway, this mod is available only for Wii U right now,\nhowever, it might get a 3DS port later.",
+      "download": "https://download1511.mediafire.com/up3twxa9qyxgmvDypxL75EjKdKNr4qGIEAGZ2mI23hqZBwZe7i9Jqx46DgJkUBtgp1BjjEDbClxDm7r_8QDMWWPRevivC5ETwO3yGvFpgcMaNqSEklxy2-tn6zDI-15AWCCaEHt3q62BW-sU7ZeGfaXVDGgeEzY_V-FxG7Sycyng/k2o24whv1set120/SonicTheHedgehogGrassland.zip",
+      "thumbnail": "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/318888570691518465/387839423787696130/WiiU_screenshot_TV_018DC_9.jpg",
+      "screenshots": [
+        "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/318888570691518465/387839423787696130/WiiU_screenshot_TV_018DC_9.jpg",
+        "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/318888570691518465/387840011762139136/WiiU_screenshot_TV_018DC_11.jpg",
+        "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/318888570691518465/387840808218394624/WiiU_screenshot_TV_018DC_12.jpg",
+        "https://mariomakingmods.github.io/cdn.discordapp.com/attachments/318888570691518465/387841056613466112/WiiU_screenshot_TV_018DC_13.jpg"
+      ],
+      "tags": [
+        "wii u",
+        "smw"
+      ]
+    },
+    {
+      "id": "sand-kingdom-tostarena",
+      "name": "Sand Kingdom | Tostarena",
+      "type": "mod",
+      "version": "1.1",
+      "author": "Buntendo",
+      "description": "Sand Kingdom\n\nHome of Red Sands and Lively Locals.\n\n\n|Tostarena\n\nGateway to the stark beauty of the desert.\n\n\nTostarenan Tourism\n\nA small town that serves as the hub\n\nfor tourists planning to visit the\n\nInverted Pyramid. The orange\n\nbuildings and cheerful Dry Bones\n\nprovide a warm welcome for visitors.\n\nThe Ice Cave\n\n\nIf are you willing, take a trip through\n\na warp pipe to visit the beautiful\n\nIce Cave.",
+      "download": "https://download1324.mediafire.com/iuj5oojfr3fgJIl4HivbuRTcQB79qDMMuHi38D2DiA-O1uVkJDf_BzR5ZPDiXaHStutYhu5-LBziHlElT2XK0ToGjoCr3LDk_ATnC8bkU_EUUk_kBnTuJwI2ZD3XqW-CUpC-0rAj1F3cqe1oitERQjMxTbU1qS8lJ9xFCvGGyCv5/3f33lg4d963rapv/Sand+Kingdom+Update.zip",
+      "thumbnail": "https://i.imgur.com/Q8w66T0.jpg",
+      "screenshots": [
+        "https://i.imgur.com/Q8w66T0.jpg",
+        "https://i.imgur.com/gAywrRV.jpg",
+        "https://i.imgur.com/QweL0rq.jpg"
+      ],
+      "tags": [
+        "smb1",
+        "wii u"
+      ]
+    },
+    {
+      "id": "replace-weird-mario-with-luigi",
+      "name": "Replace Weird Mario with Luigi!",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Buntendo",
+      "description": "Ever thought while playing SMM\n\"Hey, Weird Mario has Luigi's physics! If only I could play as Luigi.\"\n\nYou thought I only made Super Mario Odyssey mods? Oh no, I do other things too!\nPresenting Luigi in Super Mario Maker!\n\nNow I know, you're probably not impressed.\nBut what if I told you, Loogie can jump high?\n\nNow you're sold.",
+      "download": "https://download1580.mediafire.com/sslfydh7vzsgQdiYwJr9YzakGO2jysaEwwaYsMdAG1-YBCp7Bwmo4nj-HqONQ09p8A4IwosQxWc_0yfJeZyJGbj1L4ikHxgUQKpR1XqN3DdOAoQqccpP544Y7Wp7-3oJoNmiKjakXuKNVGBJd-GXFJixRQFK5ltNc8nrngM-ejYW/nhbtdje6t9nl7aw/Luigi.zip",
+      "thumbnail": "https://i.imgur.com/RUgolBp.jpg",
+      "screenshots": [
+        "https://i.imgur.com/VaSNdic.jpg",
+        "https://i.imgur.com/RUgolBp.jpg"
+      ],
+      "tags": [
+        "wii u",
+        "smb1"
+      ]
+    },
+    {
+      "id": "sunset-land-super-mario-world-custom",
+      "name": "Sunset Land - Super Mario World Custom",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Buntendo",
+      "description": "Super Mario World - Sunset Land\n\n\nA twist on the main overworld theme,\ngiving the ground an orange tint and a sunset sky.\nFeaturing music from the fairly unknown Genisis game,\nSonic 3D Blast\n\n\n-+- Full Credits -+-\n\nBuntendo - Tileset & Background + Wii U Import\n\n-+-+-+-+-+-+-+-+-+-+",
+      "download": "https://download937.mediafire.com/jcycxp281mrgRvsIlytSb0YWGYn65ilczJOlU2hfreti5s70HFZaYsjflz9ds29azVDvLK2o51HgKDOsXf8soYAqxTvbVv4f-TecDNzeKlNxtb_bkz8Lju052UBm1Pp7zrUGzBgkGLrP2EdAWUxAE11fp_hYl53G20Nxqh94RAuI/kfw71546h61lkq4/SunsetLand.zip",
+      "thumbnail": "https://i.imgur.com/1rslYAP.jpg",
+      "screenshots": [
+        "https://i.imgur.com/rsmSiuu.jpg",
+        "https://i.imgur.com/1rslYAP.jpg"
+      ],
+      "tags": [
+        "wii u",
+        "smw"
+      ]
+    },
+    {
+      "id": "moonlight-zone-super-mario-world-custom",
+      "name": "Moonlight Zone - Super Mario World Custom",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Buntendo",
+      "description": "Super Mario World - Moonlight Zone\n\n\nAnother twist on the main overworld theme.\nIn this mod, you'll find a familiar tileset,\nbut with a dark blue tint, along with\nthe ground which is lit by moonlight.\n\n\n-+- Full Credits -+-\n\nBuntendo - Tileset & Background + Wii U Import\n\nMasato Nakamura - Original Music Composer\n\n-+-+-+-+-+-+-+-+-+-+",
+      "download": "https://download1349.mediafire.com/a9o53y4dukyguWA1yCBR05x64aKUadwc2ClZSeovseE5bvBX49aGbQEPREMkUvbYcVcazvRlcTf_yj46hpyyqBXUsK2HVZuQc8Y9_TP1Lg-E1yQ7n88f4HjMorXAShN7bUMf_XcBDo49JYzyk1sJzKZfIKhzOCSjmS7OZaaHatVG/1e2r06l98ud96dc/StarryNight.zip",
+      "thumbnail": "https://i.imgur.com/PZfMDPF.jpg",
+      "screenshots": [
+        "https://i.imgur.com/JnFgkBg.jpg",
+        "https://i.imgur.com/PZfMDPF.jpg"
+      ],
+      "tags": [
+        "wii u",
+        "smw"
+      ]
+    },
+    {
+      "id": "wooded-kingdom-steam-gardens",
+      "name": "Wooded Kingdom | Steam Gardens",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Buntendo",
+      "description": "Wooded Kingdom\n\nAncient Gardens Tended by Futuristic Machines\n\n\n\n| Steam Gardens\n\n   The worlds most advanced greenhouse.\n\nThe Living Factory\n\nNo one knows who built the giant\n\nmachines dotting this land, but today\n\nthe Steam Gardeners use them to\n\nmaintain the greatest flower gardens\n\nin the world. The giant dome is\n\nclimated-controlled and apparently\n\nself-sufficient, operating with no\n\nmaintenance since ancient times.",
+      "download": "https://download1511.mediafire.com/gqgn6jt5hkkgKxyy9mZTpaVt_Cfsu7NfH7trcVi7HCU-fBHvaRK1TFb1linqCo4Sito1pa_szt78tIEpovzclnpaXHkgnPPbzYb0a-62SHRMqVWr4m8JxIR9TT_kslMZhhkOPWiHJzCEKI9A0cL_feeEnjN6TZpFbbJRzqLy6pe7/usgms98yx326vr7/Wooded+Kingdom.zip",
+      "thumbnail": "https://i.imgur.com/GWqbPEs.png",
+      "screenshots": [
+        "https://i.imgur.com/GWqbPEs.png"
+      ]
+    },
+    {
+      "id": "fred-flintstone-mystery-mushroom-costume",
+      "name": "Fred Flintstone Mystery Mushroom Costume",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "evrules5",
+      "description": "Fred Flinstone joins Super Mario Maker as a Mystery Mushroom costume! He goes over the Trampoline costume, and has the sound effects of the Goomba, this is so that he doesn't make a bump sound when he jumps.\n\nThis was intended to be used with Buntendo's Meme Theme (http://mariomods.net/thread/328-the-meme-theme#post2288)\n\nThe sprites for this mod were made by FillertheFreak (https://www.spriters-resource.com/submitter/Fillerthefreak/) on the Spriter's Resource, and were imported by myself, evrules5. The sprites were imported using both Wexos's Toolbox and Paint.NET.",
+      "download": "https://mariomakingmods.github.io/localhost/Fleenston744e.RAR_%3b?id=pvzeH4sYKPSlnSdM",
+      "thumbnail": "https://files.gamebanana.com/img/ss/srends/220-90_5a27c954634a3.jpg",
+      "tags": [
+        "characters"
+      ]
+    },
+    {
+      "id": "the-cascade-kingdom-fossil-falls",
+      "name": "The Cascade Kingdom / Fossil Falls",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Buntendo",
+      "description": "Fossil Falls is here in 8 bit!\n\nThe Cascade Kingdom is now in Super Mario Maker!\nWhy? I don't know, I have no purpose.\nOh yeah, Tater-Tot Tunes made the music.",
+      "download": "https://download1511.mediafire.com/eqxsajref1xgnkZCBigP5ZwzBIi7Dy80hvu9POiOoPET-8CkZxxFmIR6f3Kf7_ESPXZ631h3zC6x8wJIT_bZeWPJmAgynyLdLAw8MsoC-5f5_8VY_oarAS61olQOonwFyJoV1Gm3A_1KzgpaN5CAXYJIvA2YLXgRbf0FZSg9NAri/6bni8tctnoi25dg/Fossil+Falls.zip",
+      "thumbnail": "https://i.imgur.com/aAJwpLU.png",
+      "screenshots": [
+        "https://i.imgur.com/aAJwpLU.png"
+      ],
+      "tags": [
+        "wii u",
+        "smb1"
+      ]
+    },
+    {
+      "id": "spacehamster-mystery-mushroom-costume",
+      "name": "Spacehamster Mystery Mushroom Costume",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "evrules5",
+      "description": "Spacehamster joins the lineup of Mystery Mushroom costumes in Super Mario Maker with this mod! He replaces Lottie from Animal Crossing (Costume 84), and, like my Ryu mod, also has a voice mod! Similarly to the Ryu mod, the voice used is the Goomba's.\n\nThis is the last of my mods based on Kirby-Kid's sprites, so thank you for allowing me to use them. I have found some more sprites for other characters, so I do plan on making more mods of those if I get permission from the creators. I imported the sprites using Wexos's Toolbox and Paint.NET.",
+      "download": "https://mariomakingmods.github.io/localhost/Spacehamster_SMM4917.RAR_%3b?id=prruVcq4ka4QAeot",
+      "thumbnail": "https://files.gamebanana.com/img/ss/srends/530-90_5a0822ac1104f.jpg",
+      "screenshots": [
+        "https://files.gamebanana.com/img/ss/skins/5a08264d06351.jpg",
+        "https://files.gamebanana.com/img/ss/skins/5a082654eaca4.jpg",
+        "https://files.gamebanana.com/img/ss/skins/5a08266004d55.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "characters",
+        "Mystery Mushrooom Costume",
+        "Skins",
+        "Pixelated",
+        "Final",
+        "Custom"
+      ]
+    },
+    {
+      "id": "the-metro-kingdom-new-donk-city",
+      "name": "The Metro Kingdom / New Donk City",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Buntendo",
+      "description": "The City of New Donk City is now in Super Mario Maker!\nIn this mod, you'll find taxis, buildings, fire hydrants and more!\n\n\nFull Credits:\nBuntendo - Tileset, Background, and Wii U import.\nHüseyin the Mighty - Tileset, 3DS import.\nGRAnimated- Imported Background ",
+      "download": "https://download1334.mediafire.com/usqrydujocdg6zrMPHh2bk2yCkNy_Uzd_-e7UW9XMNzr-jwv0adBB1KOQDC5aFoAl9iha7I7j6GfOPS548VxIQCl9iJfhmRKw-RqOrDdPNDbK060RMAbpttUQ1Hz7W3_fEHpb_5FRhOZZ3jA__LBo7qb0BvCFMXzgj4M4pBuEHcT/1j9afa2pf42yw9a/New+Donk+City.zip",
+      "thumbnail": "https://i.imgur.com/Nsa8uuw.png",
+      "screenshots": [
+        "https://i.imgur.com/BHSdqDr.png"
+      ]
+    },
+    {
+      "id": "ryu-mystery-mushroom-costume",
+      "name": "Ryu Mystery Mushroom Costume",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "evrules5",
+      "description": "The Street Fighter Ryu joins the roster of Super Mario Maker Mystery Mushroom Costumes! He goes over Dr. Lobe (from Big Brain Training/Costume 98) and is the first costume I've created that doesn't use the sound effects of the character they're over! Ryu uses the sounds of the Goomba costume, the only downside of which is that it plays the sound of a Goomba being stomped on when you press up.\n\nThe sprites for this were, once again, created by Kirby-Kid on Deviantart (https://kirby-kid.deviantart.com/). I imported it using Wexos's Toolbox and Paint.NET. Kirby-Kid has created sprites for one more skin I plan to import, so the only thing to do there is decide who it'll go over.\n\nIf anyone knows where the sound effects for the Pokemon and ? Block are, please tell me. If someone tells me where they are, I'll update this to feature those sound effects instead of the Goomba's.",
+      "download": "https://mariomakingmods.github.io/localhost/Ryu_SMM1b8f.RAR_%3b?id=a3dwRUyQR82xH8bF",
+      "thumbnail": "https://files.gamebanana.com/img/ss/srends/530-90_59fe8d4cbbf29.jpg",
+      "screenshots": [
+        "https://files.gamebanana.com/img/ss/skins/59fef0df9e448.jpg",
+        "https://files.gamebanana.com/img/ss/skins/59fef0ebe139b.jpg",
+        "https://files.gamebanana.com/img/ss/skins/59fef0fb8fb55.jpg",
+        "https://files.gamebanana.com/img/ss/skins/59fef0f1d44de.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "characters",
+        "Mystery Mushroom Costumes",
+        "Skins",
+        "Custom",
+        "Final",
+        "Pixelated"
+      ]
+    },
+    {
+      "id": "roy-mystery-mushroom-costume",
+      "name": "Roy Mystery Mushroom Costume",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "evrules5",
+      "description": "My second released Super Mario Maker mod!\n\nOur Boy, the Fire Emblem warrior, Roy has joined Super Mario Maker as an Amiibo costume!\n\nGoing over Lucina, he has fitting sound effects and is next to the other Fire Emblem characters!\n\nSpecial thanks to Kirby-Kid on Deviantart (https://kirby-kid.deviantart.com/) for making the sprites, as well as one or two more I plan on making in the future!\n\nIf any bugs are found with this mod, let me know and I'll fix them!",
+      "download": "https://mariomakingmods.github.io/localhost/Our_Boy63b0.zip_%3b?id=EG9WZXiQHi5IxlEx",
+      "thumbnail": "https://files.gamebanana.com/img/ss/srends/530-90_59fc3fff9f943.jpg",
+      "screenshots": [
+        "https://files.gamebanana.com/img/ss/skins/59fc306e84695.jpg",
+        "https://files.gamebanana.com/img/ss/skins/59fc307ac398c.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "characters",
+        "Mystery Mushroom Costumes",
+        "Skins",
+        "Pixelated",
+        "Final",
+        "Custom"
+      ]
+    },
+    {
+      "id": "castle-bleck-theme",
+      "name": "Castle Bleck Theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "MayroSMM",
+      "description": " Hello! This is a theme that I created based off Castle Bleck from Super Paper Mario. I chose to make it replace a SMB theme because the SPM jump abilities were quite limited and you can play as Luigi, Peach, and Bowser in SMB using mystery mushrooms. I should point out that I got some of the graphics from SuperArthurBros but the rest of these totally complex tiles were made by yours truly.",
+      "download": "https://uc1b72c35344f6d015dfa6a48d70.dl.dropboxusercontent.com/cd/0/get/DL9DL6JBTwVsCPt7oAs-iFX2X8veJnkDOSmN8I9QTV_fCLiO0KBWt-yMzY-_SertpPagrQfUqSxwFoL-rtfEd9Ht7bGJi_2ddXAuFXWDR-7u0u3Mm7CEHPQ_7vvi4s7A5SUP8zgKr6R-h3M5vtsz-3zI/file?_download_id=27134554783939467629477113256348038955759808270939424465834632264&_log_download_success=1&_notify_domain=www.dropbox.com&dl=1",
+      "thumbnail": "https://img.youtube.com/vi/i6KNKIPglWs/maxresdefault.jpg"
+    },
+    {
+      "id": "bombard-cliffs-theme-newer-smbw",
+      "name": "Bombard Cliffs (Newer Super Mario Bros Wii) ",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "MayroSMM",
+      "description": " Here's my latest tileset - Bombard Cliffs!\n\nThere are a few bugs here and there but it works for the most part. It also has custom music. Hooray for that.\n\nRemember World E from Newer Super Mario Bros Wii? Probably not. But the tileset looks nice so I spent hours adapting it for Mario Maker. And Zachabossaloler kindly imported it for me which was a plus.\n\nThis goes over the NSMBU overworld and is complete with custom music. There is no custom edit music yet but I might add some in at a later date. Despite that, I will still consider this the final version of the tileset.\n\nThe download will give you all the files you need. Just copy the folders into your content folder and load Mario Maker with SDCafiine or whatever works for you.\n\nOh, and the background is the same. Sorry about that. I'm not familiar with model replacing and can't do anything about that.",
+      "download": "https://filecache31.gamebanana.com/mods/bombardythomandy.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/594e31505837f.jpg",
+      "screenshots": [
+        "https://img.youtube.com/vi/L2U6J3lWXmA/maxresdefault.jpg",
+        "https://images.gamebanana.com/img/ss/mods/594ea9f1c786f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/594eaa0005898.jpg",
+        "https://images.gamebanana.com/img/ss/mods/594eaa0ab82a9.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc",
+        "Skins",
+        "Final",
+        "Custom"
+      ]
+    },
+    {
+      "id": "super-luigi-maker",
+      "name": "Super Luigi Maker ",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "NinjaZako",
+      "description": "As some of you may or may not know, someone made a mod for SMM on the 3DS that replaces Mario with Luigi. \n\nNow, the wait is finally over.\n\nHere's Super Luigi Maker for the Wii U!",
+      "download": "https://filecache47.gamebanana.com/mods/super_luigi_maker.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5a4c2294f1c1c.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/59bf31d3e1a17.jpg",
+        "https://images.gamebanana.com/img/ss/mods/59bf31dd92d93.jpg",
+        "https://images.gamebanana.com/img/ss/mods/59bf31e12c352.jpg",
+        "https://images.gamebanana.com/img/ss/mods/59bf31e5f1ce0.jpg",
+        "https://images.gamebanana.com/img/ss/mods/59bf31e88a529.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc",
+        "Skins",
+        "Default",
+        "Recolor",
+        "Custom"
+      ]
+    },
+    {
+      "id": "new-super-mario-bros-wii-theme",
+      "name": "New Super Mario Bros. Wii Theme ",
+      "type": "mod",
+      "version": "1",
+      "author": "KartMakerBrosU",
+      "description": "This mod replaces the New Super Mario Bros. U Theme to New Super Mario Bros. Wii and includes:\nUpdated Tiles\nUpdated Tileset\nUpdated Backgrounds\nUpdated Music",
+      "download": "https://filecache46.gamebanana.com/mods/content_5e94a.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/63be5a8156a20.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/63be5a8177330.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63be5a8181d91.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63be5a81917ca.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63be5a81c143a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63be5a81d82cd.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63be5a81f287d.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63be5a82133b2.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63be5a8236c38.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63be5a82614f9.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63be5a829c893.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Theme Replacement",
+        "GIMP",
+        "Paint.NET",
+        "Switch Toolbox",
+        "CemU Wii U Emulator"
+      ]
+    },
+    {
+      "id": "the-metroid-mod",
+      "name": "The Metroid Mod ",
+      "type": "mod",
+      "version": "1.14",
+      "author": "Lakifume",
+      "description": "Finally decided to reupload this, I even took the opportunity to update and touch up a few things. This mod replaces pretty much everything in the game in order to make it look and feel like the classic Metroid universe. Metroid 1, Metroid 2, Super Metroid and AM2R are all included in this pack with as much accuracy to the original sources as possible. Several years of work went into this so as dead as this game is I still hope that some people will find this creation of mine and enjoy it.\n\nAlso includes an optional addon of 3 themes for AM2R (night, factory and space)",
+      "download": "https://filecache52.gamebanana.com/mods/metroid_mod_v114.rar",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5f6a59a688331.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5f6a5adc02afa.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5ad592a75.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5ad798a1a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5ad872c9b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5ad952410.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5adba2ef8.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5ad9f1961.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5ad54a6e0.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5adc04917.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5ad8282a3.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5b4063548.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5b40553f5.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5b4290edc.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc"
+      ]
+    },
+    {
+      "id": "castle-bleck-from-super-paper-mario",
+      "name": "Castle Bleck from Super Paper Mario",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Mayro",
+      "description": "This is a remake of Castle Bleck from Super Paper Mario. It replaces the Super Mario Bros Underground Theme.",
+      "download": "https://filecache36.gamebanana.com/mods/blecko.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/592d7de728e2d.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/592d786b92437.jpg",
+        "https://images.gamebanana.com/img/ss/mods/592d787173942.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc",
+        "Skins",
+        "Pixelated",
+        "Final/Stable",
+        "Custom"
+      ]
+    },
+    {
+      "id": "unlock-all-costumes",
+      "name": "Unlock All Costumes ",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "NobleD4",
+      "description": "Hello!\n\nMore than 1 year ago I made a mod which allows you to Unlock every Mystery Mushroom on 100 Mario Challenge (Easy mode), uploaded with very few weeks until Nintendo Network servers down.\n\nThis is not an update from my previous mod, this is an even easier way to unlock every costume in the game because there's no 100 Mario Challenge on Pretendo Network yet and because is impossible to connect to Nintendo Network ever again.\n\nThere are 2 main files I had to modify to make this works:\n- CharaMarioTable.Byml\n- Boss_CharaMarioAmiiboTable.Byml\n\nThe first one has all directories from Mystery Mushrooms 1 to 101, the second one all directories from Mystery Mushrooms 102 to 153.\nAll credits to the user memoryman3 from gbatemp.net to make possible to modify the second file properly.\n\nYou can modify the directories file for 102 to 153 to add more, in the case of this mod were added 154 to 165. Note that those costumes aren't made by me.\nAll credits to the japanese user princess ripblue from mariomakingmods.github.io website to make it possible.\n\nIn both of these files I changed \"Rare\" value, in \"CharaMarioTable.Byml\" everything was changed to 0 to be unlocked by default. I tried the same for \"Boss_CharaMarioAmiiboTable.Byml\" but doesn't works, I also tried with \"Rare\" value in 4 (Unlockeable with Gnat Attack Minigame in Normal mode) but It doesn't work either, for some reason those values only works with \"CharaMarioTable.Byml\" file.\n\nApparently to unlock costumes from \"Boss_CharaMarioAmiiboTable.Byml\" you must have to be playing on course world, so that's why \"Rare\" value is 1 for this file.\n\nFor Mystery Mushrooms from 1 to 101, you have to load this mod everytime you want to have the costumes because for your save data you haven't unlocked these costumes yet. So this is perfect to make your own levels for Pretendo upload.\n\nSo this makes Mystery Mushrooms from 102 to 165 impossible to unlock? No, I added to this mod a \"save.dat\" file with everything in the game unlocked which instructions to setup with SaveMii Tool.\n\nI hope this will be useful for you and thanks for downloading!",
+      "download": "https://filecache36.gamebanana.com/mods/unlock_all_costumes.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6856f13626866.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6856f12291058.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Mystery Mushroom Costumes",
+        "Skins"
+      ]
+    },
+    {
+      "id": "green-hill-zone-in-mario-maker-beta",
+      "name": "Green Hill Zone In Mario Maker (BETA)",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "pablobro18",
+      "description": "The Wait is finally over the First ver. of Green Hill Zone Is Finnaly Here! It Includes the following, The Green hill zone stage and background, new item boxes, coins trees and ext. also HUGE THANKS TO Zachabossaloler Plays! For helping me import the game files to SMM! Go Subscribe to his channel right now and check other work he has done (images May or May not differ from final product)",
+      "download": "https://filecache20.gamebanana.com/mods/sonic_.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/594953f580004.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/594954633eafd.jpg",
+        "https://images.gamebanana.com/img/ss/mods/594954676680f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5949546c052b3.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc",
+        "Skins",
+        "Custom",
+        "Imported"
+      ]
+    },
+    {
+      "id": "remove-shadows",
+      "name": "Remove Shadows ",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Cherries",
+      "description": "Removes the annoying shadows from the three retro themes.",
+      "download": "https://filecache20.gamebanana.com/mods/noshadow.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5991effb2547b.webp",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5991effc497d4.webp",
+        "https://images.gamebanana.com/img/ss/mods/5991effc98409.webp",
+        "https://images.gamebanana.com/img/ss/mods/5991effcafd11.webp",
+        "https://images.gamebanana.com/img/ss/mods/5991effd3e9d5.webp"
+      ],
+      "tags": [
+        "other/misc"
+      ]
+    },
+    {
+      "id": "the-cap-kingdom",
+      "name": "The Cap Kingdom ",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Ghost1598021",
+      "description": "Super Mario Odyssey's Cap Kingdom is spooky. So why not bring it into Super Mario Maker..?\nThis mod replaces SMB1's boring Haunted House theme, with a more upbeat, but spooky theme based on Bonneton! If the tileset wasn't enough, you get to listen to some sweet 8-BIT Music by the incredibly talented Tater-Tot Tunes!\n\nYou can expect some more mods from me later on, as it seems like Mario Maker's Wii U modding scene is a bit slow.",
+      "download": "https://filecache41.gamebanana.com/mods/content(1).zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/59c8f87db2046.webp",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/59c8feaadf2f6.webp"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc",
+        "Custom"
+      ]
+    },
+    {
+      "id": "shantae-mystery-mushroom-costume",
+      "name": "Shantae Mystery Mushroom Costume ",
+      "type": "mod",
+      "version": "2",
+      "author": "evrules5",
+      "description": " Shantae, the Half Genie Hero as a Mystery Mushroom Costume! This mod goes over Blathers (Animal Crossing) but if you think of a more fitting character I'll probably put it over them (if I can find their files).\n\nThis is the first mod I've ever made, so any criticism helps! Also, the sound effects are not changed, but I may add them in an update if/when I find out how to get them.",
+      "download": "https://filecache35.gamebanana.com/mods/shantae_smm_7db22.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/59fc424bd74af.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/59fc428bb1f7b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/59fc42a133b19.jpg",
+        "https://images.gamebanana.com/img/ss/mods/59fc42c19ead1.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Mystery Mushroom Costumes",
+        "Skins",
+        "Custom"
+      ],
+      "changelog": "Added an 8-Bit version over Mabel!\nCompletely optional"
+    },
+    {
+      "id": "mario-maker-e3-mod-plus",
+      "name": "Mario Maker E3 Mod PLUS",
+      "type": "mod",
+      "version": "2.0",
+      "author": "tixchris",
+      "description": "An addition to RFGuy's Mario Maker E3 Mod, now with some new editor icons, themes, and more! The custom tilesets has been made to capture the aesthetics of the original E3 2014 version of Mario Maker.\n\n (The castle tileset and the airship tileset being made by Its-A-Me_Austin and the Super Mario Maker adapted version of said tilesets being made by RFGuy. Some editor icons have been made by RFGuy and Ty)",
+      "download": "https://filecache20.gamebanana.com/mods/mario_maker_e3_mod_fa6f4.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/69167876ac9fc.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a5e690ede7ef.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6916786d93b3a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6916786d0b664.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6916786d520bf.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a5e693b12173.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6916786b0af99.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6916786c73c70.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a5e69340164f.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc",
+        "Skins"
+      ],
+      "changelog": "Huge Update 2.0\nAirship Update (Tileset by Its-a-Me_Austin)\nAdded improvements for the other gamestyles (more reflecting towards E3 2015)\nHUD Update\n\"Super Mario Maker\" text on the title screen is changed!\n-Unfortunately, since .pack files from my copy of the game do not work, we had to use pack files from different mods, such as the metroid mod. Elements from that mod will be in small places such as the UI?"
+    },
+    {
+      "id": "sonic-on-super-mario-maker-mod",
+      "name": "Sonic On Super Mario Maker MOD",
+      "type": "mod",
+      "version": "1.1",
+      "author": "PyroPower",
+      "description": "Sonic has arrived on Mario Maker ! For now only the Green Hill Zone has been added but more are to come!",
+      "download": "https://filecache40.gamebanana.com/mods/soniconmariomakermod11.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/67adf92e49dcd.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/67adf93a0c30a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/67adf97f282aa.jpg",
+        "https://images.gamebanana.com/img/ss/mods/67adf9933f69b.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Theme Replacement",
+        "Paint 3D"
+      ],
+      "changelog": "Sonic On Mario Maker 1.1\nEggman added instead of Bowser\nEggman's ship replaced in place of the Koopa-Mobile\nModified Star Music (hurry only)\nREADME.txt added for ease of installation"
+    },
+    {
+      "id": "mario-maker-e3-mod",
+      "name": "Mario Maker E3 Mod",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "RFGuy",
+      "description": "This mod replaces the Super Mario Bros Ground Theme look like the one from E3 Mario Maker.",
+      "download": "https://filecache46.gamebanana.com/mods/000500001018dc00.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6851cc6e68a0e.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6851cc5af2897.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6851cc6e707dd.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6851cc722b0f0.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6851cc5ae5bf7.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc",
+        "Skins"
+      ]
+    },
+    {
+      "id": "unlock-all-costumes-on-100-mario-easy-mode",
+      "name": "Unlock All Costumes on 100 Mario (Easy mode)",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "NobleD4",
+      "description": "Hello!\n\nRecently, with Nintendo announcement about they're going to end Wii U and 3DS services, I was thinking about unlock every costume I have left, but I'm sure it would take too long unlocking them normally.\n\nA while ago I found a mod here in this website to Unlock every Mystery Mushroom playing 100 Mario Challenge on Easy Mode uploaded by tee, so I discovered the correct answer to unlock every costume left in these 2-3 weeks remaining. Wait, the download link from there is broken like 5 years ago!\n\nWell that's not a problem for me! Last week I learned how to make my own Mystery Mushrooms and I learned that you can modify \"Boss_CharaMarioAmiiboTable.Byml\" file to be able to edit any \"BossXXX.pack\" and \"BossStaticXXX.pack\" Mystery Mushroom files (Boss000-Boss051). All credits to the user memoryman3 from gbatemp.net to make it possible.\n\nYou can modify \"CharaMarioTable.Byml\" file as well for normal Mystery Mushroom costumes, so inside both \"CharaMarioTable.Byml\" and \"Boss_CharaMarioAmiiboTable.Byml\" I changed every \"Rare\" value from every Mystery Mushroom to 1 to make them unlockeable on 100 Mario Challenge Easy Mode.\n\nI also added custom unlockeable \"BossXXX\" Mystery Mushrooms (Boss052-Boss063) to fill that empty space from 154 to 165 customes. Note that they're not made by me.\nAll credits to the japanese user princess ripblue from mariomakingmods.github.io website to make it possible.\n\nThis is also my first time uploading a mod to GameBanana, so I'm not sure if it's possible to update the post in case I need it. I hope this will be useful for you and don't forget to use this mod with SDCafiine.",
+      "download": "https://filecache37.gamebanana.com/mods/all_costumes_100_mario_easy_expansion_.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/66009e7a08409.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/66009e79daefe.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Mystery Mushroom Costumes",
+        "Skins"
+      ]
+    },
+    {
+      "id": "accurate-smb1-gamestyle",
+      "name": "Accurate SMB1 Gamestyle",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "RFGuy",
+      "description": "This mod replaces the Super Mario Bros. 1 tilesets with ones used in the NES version instead of the ones used in Super Mario Maker. \n\n\nCredits to da cool girl for the No Shadow files used in this mod, and The Spriters Resource for the NES Super Mario Bros. assets.",
+      "download": "https://filecache39.gamebanana.com/mods/accurate_smb1_gamestyle.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/68fecf1cd4b8b.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/68fed0b230407.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68fed0b2008cb.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68fed0b20518f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68fed0b1e3aa9.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68fed0b1ee248.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68fed0b202883.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Skins"
+      ]
+    },
+    {
+      "id": "mario-maker-union",
+      "name": " Mario Maker Union ",
+      "type": "modpack",
+      "version": "3.0",
+      "author": "Ghost3695922",
+      "description": "Ghost1598021 made a mod that replaces SMB Ghost House with Cap Kingdom from Super Mario Odyssey.\n\nDrewskiac made a mod that replaces Spiny with an Urchin.\n\nNobleD4 made a mod that allows you to to unlock all 100 Mario Challenge costumes on Easy difficulty.\n\nMayro made a mod that goes over the NSMBU overworld and is complete with custom music.\n\ntee made a mod with a Hammer Mario Mystery Mushroom Costume.\n\nMayro made a mod that goes over the SMB Underground theme, and has Paper Mario assets instead.\n\nevrules5 made a mod that currently only adds Luigi to the Mario Kart and Mario Bros. Amiibo Costumes.\n\nLucasFt made a mod that uses E3 slim Mario.\n\nNew Super Mario Bros. Wii game style was added.\n\nMario All-Stars Mod was added.",
+      "download": "https://filecache53.gamebanana.com/mods/mario_maker_union_version_3.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/66bd389ea00bf.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/66bd389ec9f08.jpg",
+        "https://images.gamebanana.com/img/ss/mods/66bd389ecbce7.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Modpacks",
+        "Game Files"
+      ],
+      "changelog": "Mario Maker Union 3.0\nMario All-Stars Mod was added."
+    },
+    {
+      "id": "urchin-mod-smw-and-nsmbu",
+      "name": "Urchin Mod (SMW and NSMBU)",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Drewskiac",
+      "description": "This Mod adds Urchins to Super Mario Maker, These Urchins are only in the SMW and NSMBU Styles.\n\nI'm not really sure what else to put here, So lets just put this.\nTo make an Urchin, Take a Spiny, I suggest giving him a Mushroom, then Place him anywhere while in the water theme. In the Super Mario World Theme, The Urchins are Animated. I suggest using the Urchins in Mario World instead of NSMBU, Since the NSMBU Urchins are still a WIP, and look pretty low res, and are overall sub-par.",
+      "download": "https://filecache41.gamebanana.com/mods/urchinmod.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5edf2dc69522f.jpg",
+      "license": "If you use it in any form of marketed or non-marketed content, Please give credit.",
+      "tags": [
+        "Other/Misc"
+      ]
+    },
+    {
+      "id": "super-mario-world-space-theme",
+      "name": "Super Mario World Space Theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "tixchris",
+      "description": "This is my custom space theme for Super Mario World. It replaces the ground theme, has a cozy blue style, and custom semisolids, and other blocks.",
+      "download": "https://filecache52.gamebanana.com/mods/smw_space_theme_48c16.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6837a4a09270b.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6837a4a58293b.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc",
+        "Skins"
+      ]
+    },
+    {
+      "id": "super-mario-advance-4-theme-in-super-mario-maker",
+      "name": "Super Mario Advance 4 Theme in Super Mario Maker",
+      "type": "modpack",
+      "version": "1.0.0",
+      "author": "tixchris",
+      "description": "A Super Mario Advance 4 mod, complete with SFX and Music!\n\nThere was an original version of this mod in the Mario Making Mods website, which is linked below. However, without offense to the original creator, there were multiple problems with sprite aligning and tilesets.\n\nTilesets taken from - https://gamebanana.com/mods/386922\n\nOriginal Mod - https://mariomakingmods.github.io/localhost/depot/hacks/488-super-mario-bros-3-allstars.html\n\nSprites used - https://mfgg.net/index.php?act=resdb¶m=02&c=1&id=33086\n\nAll improvements made by me. Here's a list of them:\n\n- Fixed Mario Sprites\n\n- Fixed Tilesets\n\n- Improved Backgrounds\n\n- Improved Miscellaneous Sprites\n\n- Replaced Music",
+      "download": "https://filecache47.gamebanana.com/mods/super_mario_advance_4.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6a5d7a4cf258d.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a5d7a4d71d9a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a5d7a4d72f2b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a5d7a4db2b64.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a5d7a4dd626c.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a5d7a4dd8bcb.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Modpacks",
+        "Game Files"
+      ]
+    },
+    {
+      "id": "nsmbu-autumn",
+      "name": "NSMBU Autumn",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "tixchris",
+      "description": "A theme for NSMBU replacing the ground theme with autumn! Please, do keep in mind that this is my first time modifying 3D BFRES files, so my apologies if the background looks a little weird!",
+      "download": "https://filecache38.gamebanana.com/mods/nsmbu_autumn.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6907f73f5f7bf.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6907f73f614fa.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Skins"
+      ]
+    },
+    {
+      "id": "smw-forest-bg",
+      "name": "SMW Forest BG",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "tixchris",
+      "description": "This is to make remake courses with the forest background in the OG SMW more accurate. (Such as the 1-2 remake from the 10 Mario Challenge) Keep in mind that this is the forest background from Super Mario Maker 2.",
+      "download": "https://filecache39.gamebanana.com/mods/smw_forest_bg.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6838d82a7d4e1.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6838d82ed154b.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc",
+        "Skins"
+      ]
+    },
+    {
+      "id": "accurate-nsmbu-theme",
+      "name": "Accurate NSMBU Theme",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "tixchris",
+      "description": "So, y'know how the NSMBU theme in the Super Mario Maker games have been really inaccurate for seemingly NO reason? WillyMaker has created an accurate NSMBU theme for SMM2, and me and my good friend RFGuy decided that we should create one for those who prefer to play on their Wii Us.\nThis mod was incredibly fun to make, and now that we're done with it, we're off to pursue more of our incredible ideas. :D",
+      "download": "https://filecache46.gamebanana.com/mods/realistic_nsmbu.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6aa4ca55c4c04.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6aa4cba111146.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6aa4cba079833.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6aa4cba120b8e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6aa4cba04e383.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6aa4cb9fd4a62.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6aa4cba0b6fcf.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Theme Replacement"
+      ]
+    },
+    {
+      "id": "nsmb2-gamestyle",
+      "name": "NSMB2 Gamestyle",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Huseyin the Mighty",
+      "description": "This is a SMMWii U and SMM3DS mod, which replaces all NSMBU Themes with NSMB2 Themes",
+      "download": "https://filecache45.gamebanana.com/mods/nsmb2_smmwiiu.zip",
+      "thumbnail": "https://i.imgur.com/zqZsB6h.png",
+      "screenshots": [
+        "https://i.imgur.com/pxyEUiG.png",
+        "https://i.imgur.com/lY3dL76.png",
+        "https://i.imgur.com/vcGfxnP.png",
+        "https://i.imgur.com/dQ6XMe0.png",
+        "https://i.imgur.com/FlKxPIB.png",
+        "https://i.imgur.com/vcGfxnP.png",
+        "https://i.imgur.com/ytT0wo1.png"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Theme Replacement"
+      ]
+    },
+    {
+      "id": "no-editor-voices",
+      "name": "No Editor Voices",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "tixchris",
+      "description": "IF YOU KNOW WHERE THE SOUND FILE FOR THE WINGS ARE, PLEASE TELL ME, AS I COULDN'T GET THEM TO WORK. (NOT EDIT_WINGS.BARS, I HAVE ALREADY DONE THAT.) \n\nNothin' special, just removes editor voices from the editor. To people that find these annoying, you're welcome! :)\n\nIf you find a voice in the editor, besides the wings, please do tell me! I'm 95% sure I went through every voice sound effect.",
+      "download": "https://filecache46.gamebanana.com/mods/no_editor_voices_f6d02.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/690a7bed55141.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/690a7ca8bf2b2.jpg"
+      ]
+    },
+    {
+      "id": "sky-hills-set",
+      "name": "Sky Hills Set",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "tixchris",
+      "description": "This is a mod that replaces the ground theme with a sky theme. This background has the hills from NSMBWii's Mushroom Kingdom. There are other variants of this background with different colors and lighting, the other 2 being Sunset and Stormy.",
+      "download": "https://filecache38.gamebanana.com/mods/sky_hills_set.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6a7be0161719f.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a7be02899d76.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a7be028c2357.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a7be028ca2db.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Skins"
+      ]
+    },
+    {
+      "id": "nsmbu-desert-themes",
+      "name": "NSMBU Desert Themes",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "tixchris",
+      "description": "Replaces the NSMBU Ground theme with the Desert theme, and replaces the Underground theme with its Desert variant.\nDon't ask me why the castle background looks weird, I'm not aware.",
+      "download": "https://filecache39.gamebanana.com/mods/nsmbu_desert_themes.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6a9a1083b719b.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a9a10c1d99ff.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Skins"
+      ]
+    },
+    {
+      "id": "fuzzies",
+      "name": "Fuzzies!",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "tixchris",
+      "description": "Replaces the Spiketop enemy in the NSMBU Gamestyle with the Fuzzy enemy!",
+      "download": "https://filecache53.gamebanana.com/mods/fuzzy_mod.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6a93a8c18ccde.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a93a8caa7386.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a93a8cabb02c.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Skins"
+      ]
+    },
+    {
+      "id": "acorn-tree",
+      "name": "Acorn Tree",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "tixchris",
+      "description": "Simply adds the acorn tree to NSMBU's Overworld background.",
+      "download": "https://filecache44.gamebanana.com/mods/acorn_tree_6af89.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6a87a23185561.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a87a23a05b22.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc"
+      ]
+    },
+    {
+      "id": "minecraft-in-super-mario-maker",
+      "name": "Minecraft in Super Mario Maker",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "GRAnimated",
+      "description": "Minecraft in Super Mario Maker is a mod for Super Mario Maker.\nIt replaces 4/6 of the themes in the Super Mario World style.\nIt also replaces around 15 objects/enemies.\nSide Note: I started this mod all the way back in February 2017, and I basically finished it in September, I just haven't posted it here.",
+      "download": "https://uc43e14192a6d348440f9efa962f.dl.dropboxusercontent.com/cd/0/get/DMDI-Tq4ERWJaoL4psCrDwmrVzutu-_utJ85VBS6l7Ztss7g7p6Oo1XLUJCFspzRhH91k2-ateeaMJ1IEm9Yh6AKgXhFGvtreLm7IoMNq7ygzxaxp4MdT_tw0rQhRPSC_dC-w-G77p6Y3dBuB7K22_SX/file?_download_id=6102326808215821828427427135184896553815893434885768676752364063&_log_download_success=1&_notify_domain=www.dropbox.com&dl=1(3)",
+      "thumbnail": "https://images.gamebanana.com/img/ss/projects/5a3690e199ed5.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/projects/5a3690e22f0ab.jpg",
+        "https://images.gamebanana.com/img/ss/projects/5a3690e23ce87.jpg",
+        "https://images.gamebanana.com/img/ss/projects/5a3690e1ca6e2.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc"
+      ]
+    },
+    {
+      "id": "super-mario-bros-all-stars-theme",
+      "name": "Super Mario Bros: All Stars Theme",
+      "type": "mod",
+      "version": "0.4",
+      "author": "evrules5",
+      "description": "This is a mod that will replace the 8-Bit Super Mario Bros style with 16-Bit sprites from the SNES port featured in Super Mario All Stars.\n\nThe custom sprites were made by Valtteri on the Super Mario Bros X Forum, or ValtteriValtteri24 on YouTube. You can find the sprites here.",
+      "download": "https://filecache37.gamebanana.com/wips/smb_16_bit_76160.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/wips/59bca30dae363.jpg",
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc",
+        "WiPs",
+        "Wexos's Toolbox",
+        "Paint.NET"
+      ]
+    },
+    {
+      "id": "luigi-amiibo-costumes",
+      "name": "Luigi Amiibo Costumes",
+      "type": "mod",
+      "version": "0.6",
+      "author": "evrules5",
+      "description": "There's a mod available that replaces Mario with Luigi in all game styles except New Super Mario Bros. U, but it doesn't change any Amiibo outfits (with the exception of Builder Mario). This mod aims to change that!\n\nWhen finished, this mod will change the following costumes to their Luigi counterparts:\n\n    Dr Mario\n    Mario Kart\n    Mario Bros Mario\n    Baby Mario\n    Mario Kun\n    Mercedes Benz\n    Cat Mario\n    (Possibly) Silver/Gold Mario\n\n\nThe Mario Kart and Mario Bros costumes are already completed and are available to download below!",
+      "download": "https://filecache39.gamebanana.com/wips/luigi_amiibo_43439.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/wips/59cc9f6eb731d.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/wips/59cca384bf4f3.jpg",
+        "https://images.gamebanana.com/img/ss/wips/59cf7ff9e300a.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc",
+        "WiPs",
+        "Paint.NET",
+        "Wexos's Toolbox"
+      ],
+      "changelog": "Version 0.4\nAdded the Mercedes Benz!"
+    }
+  ]
+}
