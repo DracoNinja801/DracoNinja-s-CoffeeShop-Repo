@@ -6,6 +6,9 @@
   "games": [
     {
       "path": "games/nintendo-land/game.json"
+    },
+    {
+      "path": "games/super-mario-maker/game.json"
     }
   ]
 }
