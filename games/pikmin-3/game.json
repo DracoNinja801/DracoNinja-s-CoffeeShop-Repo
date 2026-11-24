@@ -6,5 +6,93 @@
     "000500001012BD00",
     "000500001012BE00"
   ],
-  "mods": []
+  "mods": [
+    {
+      "id": "pikmin-3-extra-side-of-stories",
+      "name": "Pikmin 3: Extra Side of Stories",
+      "type": "mod",
+      "version": "2.0",
+      "author": "Tong",
+      "description": "A mission mode expansion pack following the events of the Side Story featured in Pikmin 3 Deluxe.\n\nOlimar's Mission - consists of 15 remixed levels for Collect Treasure, making enough money to buy the dolphin.\n\nLouie Stories - A solo adventure starring Louie, battling enemies to take back home and cook at his restaurant that Olimar help fund after his mission.\n\nAlso featuring a minigames mode, (Deluxe only) Brand new stages for you to play designed from a variety of Pikmin 3 modders.",
+      "download": "https://drive.usercontent.google.com/download?id=1J-sWF8hq1bdcGoNgbIxAGRSvXh003_KJ&export=download&authuser=0&confirm=t&uuid=c29083f9-aa22-4fc2-ab94-acb718191f6a&at=AMrWOn3KzcO-8pDIsn8dPBfS7Bbg:1795484463532",
+      "thumbnail": "https://sites.google.com/u/0/sitesv-images-rt/APXyLQeRSd9Rm3kyXofSUSw3DCnpsQtyC7dZI6UL3MCHser25PDqk3lP90bHshEOETBBMAgCQ9Ko3RRhRgr2qIfSXLm9QgZ9sHQ4_sFZ7k2lsY_HEJr95u7j-nOR0t6NEZ5WFxnlsvPC-3kh6peP8DScdZo---FUwVo99hnDusZFvxHn3vP6KE3IvOOa7IXp2vcdqfO02VocefycPxoacAvMAfieGCRgHBV7HyE1NfyosFs=w1280",
+      "screenshots": [
+        "https://sites.google.com/u/0/sitesv-images-rt/APXyLQddY8JzOqXJv7QQ6i1_nvhwDbgySLk-Zt_MAbUiDUh9806AocyzuxNLNMmm-TDYYB7GENnUurh3a3X7In2rGJPlhPImCoU1--joaVRbviy7977IGR30flDVTLf5kK3CnaeFIov01AeP3EQ2uVpt_5r5Skeh-pXNN8m8fJm7jtQa0rNV1nyxgn5bXIDaF64dBMGoKOk4tP7svZLwHbnoruw5ow2UFbyY50enDS3C=w1280",
+        "https://images.gamebanana.com/img/ss/wips/603808e53a357.jpg",
+        "https://images.gamebanana.com/img/ss/wips/603808e88c23c.jpg",
+        "https://images.gamebanana.com/img/ss/wips/603808ebd45dd.jpg",
+        "https://images.gamebanana.com/img/ss/wips/603808ef459b5.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Other/Misc",
+        "Mapping",
+        "WiPs"
+      ]
+    },
+    {
+      "id": "pikmin-3-original-leaders",
+      "name": "Pikmin 3- Original Leaders",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Niment",
+      "description": "Olimar, Louie, and the President return as playable characters in Pikmin 3! \nThey replace Alph, Brittany, and Charlie respectively. Alph and Brittany replace Olimar and Louie respectively. The President uses a custom made model made using parts from the Lucky Marble item, Parts from Olimar, and original elements so that he can look accurate to his appearance in Pikmin 2 while also appearing modernized just as Olimar and Louie were in the jump for Pikmin 2 to 3. Also included is a version of the mod with an appearance for the President that is more similar to his in game model from Pikmin 2.\n\nThere are 4 Versions of this mod to chose from:\n\n    Olimar, Louie, and President over Alph, Brittany, and Charlie\n    Olimar, Louie, and President over Alph, Brittany, and Charlie  (alternate President style)\n    President over Charlie\n    President over Charlie (alternate style)\n\n\nIn summary, this mod includes model replacements for each leader which replaces them with their counterpart from Pikmin 2/3. It also includes UI changes to reflect the new leaders. They all have cutscene models as well meaning they are fully compatible with Story Mode. however their animations do tend to get a little weird in some instances which will likely be fixed at a later date.\n\n\nFeatures that may be Included in the Future:\n\n    Changed story mode text to go along with the 3 Original Leaders gathering fruit for Koppai.\n    Improved Cutscene Animations\n    Changed Voice Clips \n    A Port of this mod for Pikmin 3: Deluxe\n    Changed Helmet Light Colors for the Leaders as well as other Color changes (UI, Outlines, Etc)\n    Other adjustments based on feedback",
+      "download": "https://filecache43.gamebanana.com/mods/pikmin_3-_original_leaders_4c358.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5f9b155118efb.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5f9b158a59956.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f9b158951976.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f9b158e15e92.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f9b1574c65d7.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f9b158d307b7.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f9b1586011fa.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f9b158b477e0.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Mods",
+        "Skins",
+        "Other/Misc",
+        "Cartoon",
+        "Skins",
+        "Default",
+        "Custom",
+        "Imported"
+      ]
+    },
+    {
+      "id": "pikmin-3-and-3-deluxe-5-new-challenge-levels",
+      "name": "Pikmin 3 +5 NEW Challenge Levels",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Gimmicking",
+      "description": "Uses the assets in the game without too much overall change. The first 5 mission mode stages in this hack have been changed to be a completely different experience. This is my first hack, and it came out on Christmas 2022. \n\nI hope you all enjoy :)",
+      "download": "https://filecache42.gamebanana.com/mods/pikmin3_spicybonuslevels.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/649492521a556.jpg",
+      "tags": [
+        "Mods",
+        "Game Files"
+      ]
+    },
+    {
+      "id": "90-minute-time-limit-for-all-missions",
+      "name": "90 Minute time limit for ALL missions.",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "joered05",
+      "description": "I simple mod that changes the timer in mission mode from there original limit to 90 Minutes. It changes ALL levels in Treasure collect, Battle enemies, and Battle bosses. It works with DLC too!\nI wouldn't recommend connecting to leader boards while this mod is active. I doubt anything will happen, but better safe than sorry!\n\nThis is my very first mod i have ever done for a Wii U game so i thought i should make a simple mod that i didn't see anywhere else, and because i wanted to mess around in mission mode for fun.\n\n\nBugs & Tested Levels:\nRight now i don't know of any bugs with this mod.\nTested levels:\n   Treasure Collect:\n   All levels tested and work as intended.\n\n   Battle Enemies:\n   All levels tested except 3, 4, and 5. (Expected to work, just haven't tested it)\n\n   Battle Bosses:\n   All 6 levels tested and work as intended.\n\nIf you find any bugs or any issues with the mod feel free to tell me about them and i will attempt to fix it.",
+      "download": "https://filecache37.gamebanana.com/mods/90minutemissionmode.rar",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5cfb7b5bcfdfc.webp",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5cfb7b5bd2553.webp"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Mods",
+        "Game Files",
+        "Other/Misc"
+      ],
+      "changelog": "Update 6/8/2019:\n   Tested levels 3, 4, and 5 in Treasure Collect. All work as intended."
+    }
+  ]
 }
