@@ -9,6 +9,9 @@
     },
     {
       "path": "games/super-mario-maker/game.json"
+    },
+    {
+      "path": "games/pikmin-3/game.json"
     }
   ]
 }
