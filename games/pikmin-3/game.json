@@ -93,6 +93,172 @@
         "Other/Misc"
       ],
       "changelog": "Update 6/8/2019:\n   Tested levels 3, 4, and 5 in Treasure Collect. All work as intended."
+    },
+    {
+      "id": "decor-pikmin-burger-set",
+      "name": "Decor Pikmin - Burger Set",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Dekgear",
+      "description": "Want to add more flavour to your Pikmin experience? This is for you!\n\nThis mod adds Decor Pikmin from Pikmin Bloom into the game! Especifically from the \"Burger\" set AKA Fast Food costumes!\n\nModels and textures of the costumes were simplified so the game could handle them better.\n\nYou can install it with SDCafiine on Wii U, or as a graphic pack on CEMU (untested)",
+      "download": "https://filecache53.gamebanana.com/mods/decorpikmin_burger_dietversion.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/64d6c1f593411.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/64d6c33d9e225.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64d6c3513be88.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64d6c3674fb79.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64d6c2c346e94.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64d6c4199db97.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64d6c51d348d9.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Mods",
+        "Skins",
+        "Other/Misc"
+      ]
+    },
+    {
+      "id": "hyper-wraith-boss-fight",
+      "name": "Hyper Wraith Boss Fight",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "QuoteBalrog",
+      "description": "This is a harder version of the Plasm Wraith in Mission Mode where he attacks faster, runs faster, and has more hp during the same 12 minute timer. There is also an unkillable Meerslug that is meant there as a distraction. Good luck if you can try to kill this beast.",
+      "download": "https://filecache45.gamebanana.com/mods/hyperwraith_boss_fight_challenge_mo.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5e65a9ac4aec0.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5e65a9bdb47a4.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5e65a9e9133ec.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5e65aa9893837.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5e65aaceb115e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5e65ab116ec0a.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Mods",
+        "Game Files",
+        "Other/Misc"
+      ]
+    },
+    {
+      "id": "no-hud-on-koppad-camera-no-shop-icon-on-title",
+      "name": "No HUD on KopPad camera+ No shop icon on title",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Dekgear",
+      "description": "This is a simple mod that removes the HUD when using the KopPad camera and also the e-shop icon from the Title Screen\n\nThis allows easier screenshoot takings from the first person camera of the KopPad, which is otherwise not very useful as it can't upload screenshots to Miiverse anymore.\n\nAlso removes the e-shop icon from the title screen, which is now useless as there's no e-shop anymore, and even if you had the DLC installed it would still show up.\n\nWorks with SDCafiine or as a CEMU Graphic Pack.",
+      "download": "https://filecache52.gamebanana.com/mods/no_hud_on_koppad_camera_no_shop_icon.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6403b865cfe3d.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6403b8656ed91.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6403b865a4797.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6403b865aee5e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6403bc9a46793.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64d6a7f3077e7.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Mods",
+        "Game Files",
+        "Other/Misc"
+      ],
+      "changelog": "e-shop icon removal\n-Removes e-shop icon from the Title Screen. Also added rules.txt so it can be used as a graphic pack."
+    },
+    {
+      "id": "decor-pikmin-pharmacy-set-wii-u",
+      "name": "Decor Pikmin - Pharmacy set",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Dekgear",
+      "description": "Gives all Pikmin dental hygiene costumes from Pikmin Bloom! Also, remember to brush your teeth if you haven't already!",
+      "download": "https://filecache20.gamebanana.com/mods/toothbrush_pikmin_low_poly.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/64e03d22c17dd.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/64e03d2addf5a.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Mods",
+        "Skins",
+        "Other/Misc"
+      ]
+    },
+    {
+      "id": "more-helpful-end-day-warning-wii-u-eng",
+      "name": "More helpful \"End Day\" warning (ENG) ",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Sven Cakemann",
+      "description": "Apparently, in the Wii U release of Pikmin 3 in English only, the game does not list how many Pikmin will be left behind if the day is ended early without having all the Pikmin in a safe location. Every other language is specific in saying how many Pikmin will be lost. This edits the msbt text string to show exactly how many will be left behind. I'm not sure if this was something that was fixed in the Deluxe release of the game on Switch, but if it wasn't, go ahead and port it over.\n\nThis mod will not have any affect on your game unless you play it in English (EU) or English (US). ",
+      "download": "https://filecache41.gamebanana.com/mods/pikmin3_enddayhelpful.7z",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/64a9811780600.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/64a98117bfaea.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Mods",
+        "Game Files"
+      ]
+    },
+    {
+      "id": "dandori-olimar",
+      "name": "Dandori Olimar",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Sven Cakemann",
+      "description": "Replaces the gameplay version of Captain Olimar with his appearance in Pikmin 4. This is only for Pikmin 3, not Pikmin 3 Deluxe; it should work on Wii U console, but has only been tested on Cemu as of right now. I don't own P3 Deluxe, so I'm unable to test/port it myself. If you are interested in porting it, please reach out to me.\n\nThis changes most, but not all, of Captain Olimar's UI to match. \n\nFuture changes:\nModel to replace cutscene appearances\nReplacing remaining UI elements that I may have missed",
+      "download": "https://filecache31.gamebanana.com/mods/pikmin3_p4olimin.7z",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/64a61c50c4a33.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/64a61c4f6a4bd.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64a61c4e2daa5.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Mods",
+        "Skins"
+      ]
+    },
+    {
+      "id": "pikmin-4-title-screen-music",
+      "name": "Pikmin 4 title screen music",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Sven Cakemann",
+      "description": "Replaces Pikmin 3's title music with that of Pikmin 4.",
+      "download": "https://filecache42.gamebanana.com/mods/pikmin3_pikmin4theme.7z",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/64acdd2b65de6.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/64acdd45c2af9.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Mods",
+        "Game Files",
+        "Other/Misc"
+      ]
+    },
+    {
+      "id": "gamestop-event-s-tropical-forest-layout-u-dx",
+      "name": "GameStop Event's Tropical Forest layout",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "SmacAttac",
+      "description": "Long story short, man spends about a week trying to crack open an old Wii U kiosk disc, finds out he was wasting his time after finding an in your face solution, finds out the contents are actually REALLY uninteresting and very similar to final (which in hindsight, given the demo was made on July 9th, about a month before release, I really shouldn't be that surprised) so he decides to salvage at least something from time wasted. \n\nIn this case, the exclusive Tropical Forest layout used only for this demo, which was made for a GameStop event around the time, those who attended from July 19th-20th and preordered P3 at the store were given a code to play the game a day early on August 3, 2013. Apparently a lot of those codes given didn't actually work which was a fiasco in itself.",
+      "download": "https://filecache35.gamebanana.com/mods/p3_gamestop_tropical_forest_wiiu_.rar",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/696b9add5e22c.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/696b9add53552.jpg",
+        "https://images.gamebanana.com/img/ss/mods/696b9aed01332.jpg",
+        "https://images.gamebanana.com/img/ss/mods/696b9adcdc63c.jpg"
+      ],
+      "license": "CC BY-NC-ND 4.0",
+      "tags": [
+        "Mods",
+        "Game Files"
+      ]
     }
   ]
 }
